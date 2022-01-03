@@ -1,0 +1,63 @@
+1 chart.block.BorderArrangement No:1(faultline)
+1 chart.block.AbstractBlock No:2
+1
+68 chart.block.AbstractBlock No:3
+0
+105 chart.block.AbstractBlock No:4
+19
+1 chart.block.BlockBorder No:5
+1
+41 chart.block.BlockBorder No:6
+1
+18 chart.block.BlockBorder No:7
+1
+1 chart.block.BlockContainer No:8
+0
+10 chart.block.BlockContainer No:9
+1
+1 chart.block.BlockContainer No:10
+0
+1 chart.block.BorderArrangement No:11
+0
+114 chart.block.BorderArrangement No:12
+0
+207 chart.block.BorderArrangement No:13
+1
+1 chart.block.EmptyBlock No:14
+2
+5 chart.block.EmptyBlock No:15
+1
+2 chart.block.EmptyBlock No:16
+3
+1 chart.block.RectangleConstraint No:17
+0
+9 chart.block.RectangleConstraint No:18
+1
+13 chart.block.RectangleConstraint No:19
+1
+1 chart.block.junit.BorderArrangementTests No:20
+-
+1 chart.util.ObjectUtilities No:21
+0
+57 chart.util.ObjectUtilities No:22
+1
+57 chart.util.ObjectUtilities No:23
+1
+1 chart.util.RectangleInsets No:24
+0
+14 chart.util.RectangleInsets No:25
+57
+234 chart.util.RectangleInsets No:26
+0
+1 chart.util.Size2D No:27
+3
+2 chart.util.Size2D No:28
+2
+1 chart.util.Size2D No:29
+3
+1 data.Range No:30
+95
+91 data.Range No:31
+0
+9 data.Range No:32
+4

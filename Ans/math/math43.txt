@@ -1,0 +1,129 @@
+1 stat.descriptive.SummaryStatistics No:1(faultline)
+1 TestUtils No:2
+-
+1 exception.util.ArgUtils No:3
+0
+2 exception.util.ArgUtils No:4
+1
+3 exception.util.ArgUtils No:5
+5
+1 exception.util.ExceptionContext No:6
+0
+27 exception.util.ExceptionContext No:7
+2
+31 exception.util.ExceptionContext No:8
+2
+1 stat.descriptive.AbstractStorelessUnivariateStatistic No:9
+1
+18 stat.descriptive.AbstractStorelessUnivariateStatistic No:10
+16
+5 stat.descriptive.AbstractStorelessUnivariateStatistic No:11
+16
+1 stat.descriptive.AbstractUnivariateStatistic No:12
+21
+18 stat.descriptive.AbstractUnivariateStatistic No:13
+28
+21 stat.descriptive.AbstractUnivariateStatistic No:14
+0
+1 stat.descriptive.StatisticalSummaryValues No:15
+0
+10 stat.descriptive.StatisticalSummaryValues No:16
+0
+28 stat.descriptive.StatisticalSummaryValues No:17
+0
+1 stat.descriptive.SummaryStatistics No:18
+0
+49 stat.descriptive.SummaryStatistics No:19
+0
+63 stat.descriptive.SummaryStatistics No:20
+0
+1 stat.descriptive.SummaryStatisticsTest No:21
+-
+1 stat.descriptive.SynchronizedSummaryStatistics No:22
+0
+2 stat.descriptive.SynchronizedSummaryStatistics No:23
+0
+13 stat.descriptive.SynchronizedSummaryStatistics No:24
+0
+1 stat.descriptive.SynchronizedSummaryStatisticsTest No:25
+-
+1 stat.descriptive.moment.FirstMoment No:26
+0
+7 stat.descriptive.moment.FirstMoment No:27
+38
+6 stat.descriptive.moment.FirstMoment No:28
+0
+1 stat.descriptive.moment.GeometricMean No:29
+8
+1 stat.descriptive.moment.GeometricMean No:30
+8
+4 stat.descriptive.moment.GeometricMean No:31
+1
+1 stat.descriptive.moment.Mean No:32
+6
+3 stat.descriptive.moment.Mean No:33
+21
+44 stat.descriptive.moment.Mean No:34
+1
+1 stat.descriptive.moment.SecondMoment No:35
+1
+4 stat.descriptive.moment.SecondMoment No:36
+21
+11 stat.descriptive.moment.SecondMoment No:37
+21
+1 stat.descriptive.moment.Variance No:38
+21
+29 stat.descriptive.moment.Variance No:39
+2
+102 stat.descriptive.moment.Variance No:40
+5
+1 stat.descriptive.rank.Max No:41
+0
+28 stat.descriptive.rank.Max No:42
+1
+20 stat.descriptive.rank.Max No:43
+0
+1 stat.descriptive.rank.Min No:44
+0
+13 stat.descriptive.rank.Min No:45
+6
+28 stat.descriptive.rank.Min No:46
+0
+1 stat.descriptive.summary.Sum No:47
+0
+22 stat.descriptive.summary.Sum No:48
+0
+15 stat.descriptive.summary.Sum No:49
+2
+1 stat.descriptive.summary.SumOfLogs No:50
+0
+15 stat.descriptive.summary.SumOfLogs No:51
+2
+20 stat.descriptive.summary.SumOfLogs No:52
+0
+1 stat.descriptive.summary.SumOfSquares No:53
+0
+17 stat.descriptive.summary.SumOfSquares No:54
+0
+12 stat.descriptive.summary.SumOfSquares No:55
+7
+1 util.FastMath No:56
+1
+2386 util.FastMath No:57
+54
+1482 util.FastMath No:58
+55
+1 util.FastMathLiteralArrays No:59
+-
+1 util.MathUtils No:60
+4
+22 util.MathUtils No:61
+2
+113 util.MathUtils No:62
+0
+1 util.Precision No:63
+1
+140 util.Precision No:64
+1
+130 util.Precision No:65
+0

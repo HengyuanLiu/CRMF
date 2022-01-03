@@ -1,0 +1,259 @@
+1 optimization.general.AbstractLeastSquaresOptimizer No:1(faultline)
+1 TestUtils No:2
+-
+1 analysis.FunctionUtils No:3
+3
+154 analysis.FunctionUtils No:4
+9
+51 analysis.FunctionUtils No:5
+4
+1 analysis.differentiation.DSCompiler No:6
+32
+463 analysis.differentiation.DSCompiler No:7
+2
+364 analysis.differentiation.DSCompiler No:8
+2
+1 analysis.differentiation.DerivativeStructure No:9
+30
+43 analysis.differentiation.DerivativeStructure No:10
+4
+129 analysis.differentiation.DerivativeStructure No:11
+2
+1 analysis.polynomials.PolynomialFunction No:12
+6
+23 analysis.polynomials.PolynomialFunction No:13
+16
+109 analysis.polynomials.PolynomialFunction No:14
+3
+1 distribution.AbstractRealDistribution No:15
+11
+34 distribution.AbstractRealDistribution No:16
+12
+50 distribution.AbstractRealDistribution No:17
+16
+1 distribution.UniformRealDistribution No:18
+2
+22 distribution.UniformRealDistribution No:19
+0
+34 distribution.UniformRealDistribution No:20
+2
+1 exception.MathIllegalStateException No:21
+1
+2 exception.MathIllegalStateException No:22
+1
+1 exception.MaxCountExceededException No:23
+7
+1 exception.util.ArgUtils No:24
+1
+2 exception.util.ArgUtils No:25
+2
+3 exception.util.ArgUtils No:26
+4
+1 exception.util.ExceptionContext No:27
+1
+34 exception.util.ExceptionContext No:28
+2
+13 exception.util.ExceptionContext No:29
+2
+1 linear.AbstractRealMatrix No:30
+6
+554 linear.AbstractRealMatrix No:31
+9
+319 linear.AbstractRealMatrix No:32
+1
+1 linear.Array2DRowRealMatrix No:33
+60
+133 linear.Array2DRowRealMatrix No:34
+4
+128 linear.Array2DRowRealMatrix No:35
+4
+1 linear.ArrayRealVector No:36
+2
+323 linear.ArrayRealVector No:37
+2
+73 linear.ArrayRealVector No:38
+2
+1 linear.BlockRealMatrix No:39
+15
+2369 linear.BlockRealMatrix No:40
+3
+206 linear.BlockRealMatrix No:41
+26
+1 linear.DefaultRealMatrixPreservingVisitor No:42
+-
+1 linear.DiagonalMatrix No:43
+11
+30 linear.DiagonalMatrix No:44
+15
+47 linear.DiagonalMatrix No:45
+9
+1 linear.EigenDecomposition No:46
+3
+316 linear.EigenDecomposition No:47
+5
+605 linear.EigenDecomposition No:48
+2
+1 linear.LUDecomposition No:49
+1
+180 linear.LUDecomposition No:50
+8
+178 linear.LUDecomposition No:51
+9
+1 linear.MatrixUtils No:52
+2
+151 linear.MatrixUtils No:53
+1
+302 linear.MatrixUtils No:54
+2
+1 linear.RealMatrixFormat No:55
+2
+38 linear.RealMatrixFormat No:56
+2
+34 linear.RealMatrixFormat No:57
+1
+1 linear.RealVectorFormat No:58
+1
+18 linear.RealVectorFormat No:59
+3
+16 linear.RealVectorFormat No:60
+4
+1 linear.TriDiagonalTransformer No:61
+13
+114 linear.TriDiagonalTransformer No:62
+2
+215 linear.TriDiagonalTransformer No:63
+4
+1 optimization.AbstractConvergenceChecker No:64
+1
+8 optimization.AbstractConvergenceChecker No:65
+1
+8 optimization.AbstractConvergenceChecker No:66
+1
+1 optimization.InitialGuess No:67
+-
+1 optimization.PointVectorValuePair No:68
+1
+2 optimization.PointVectorValuePair No:69
+2
+3 optimization.PointVectorValuePair No:70
+1
+1 optimization.SimpleVectorValueChecker No:71
+2
+4 optimization.SimpleVectorValueChecker No:72
+2
+28 optimization.SimpleVectorValueChecker No:73
+4
+1 optimization.Target No:74
+-
+1 optimization.Weight No:75
+1
+2 optimization.Weight No:76
+1
+3 optimization.Weight No:77
+1
+1 optimization.direct.BaseAbstractMultivariateVectorOptimizer No:78
+3
+13 optimization.direct.BaseAbstractMultivariateVectorOptimizer No:79
+9
+9 optimization.direct.BaseAbstractMultivariateVectorOptimizer No:80
+4
+1 optimization.fitting.CurveFitter No:81
+7
+8 optimization.fitting.CurveFitter No:82
+12
+8 optimization.fitting.CurveFitter No:83
+4
+1 optimization.fitting.PolynomialFitter No:84
+1
+1 optimization.fitting.PolynomialFitter No:85
+1
+3 optimization.fitting.PolynomialFitter No:86
+1
+1 optimization.fitting.PolynomialFitterTest No:87
+-
+1 optimization.fitting.WeightedObservedPoint No:88
+-
+1 optimization.general.AbstractLeastSquaresOptimizer No:89
+1
+53 optimization.general.AbstractLeastSquaresOptimizer No:90
+2
+27 optimization.general.AbstractLeastSquaresOptimizer No:91
+5
+1 optimization.general.GaussNewtonOptimizer No:92
+1
+9 optimization.general.GaussNewtonOptimizer No:93
+3
+16 optimization.general.GaussNewtonOptimizer No:94
+3
+1 optimization.general.LevenbergMarquardtOptimizer No:95
+6
+221 optimization.general.LevenbergMarquardtOptimizer No:96
+2
+143 optimization.general.LevenbergMarquardtOptimizer No:97
+6
+1 random.AbstractWell No:98
+46
+81 random.AbstractWell No:99
+1
+85 random.AbstractWell No:100
+9
+1 random.BitsStreamGenerator No:101
+1
+47 random.BitsStreamGenerator No:102
+18
+79 random.BitsStreamGenerator No:103
+10
+1 random.RandomDataGenerator No:104
+4
+1 random.RandomDataGenerator No:105
+4
+178 random.RandomDataGenerator No:106
+11
+1 random.RandomDataImpl No:107
+11
+5 random.RandomDataImpl No:108
+1
+1 random.RandomDataImpl No:109
+11
+1 random.Well19937c No:110
+4
+7 random.Well19937c No:111
+2
+5 random.Well19937c No:112
+4
+1 util.CompositeFormat No:113
+8
+16 util.CompositeFormat No:114
+1
+56 util.CompositeFormat No:115
+1
+1 util.FastMath No:116
+1
+6478 util.FastMath No:117
+88
+3569 util.FastMath No:118
+14
+1 util.Incrementor No:119
+1
+15 util.Incrementor No:120
+33
+12 util.Incrementor No:121
+8
+1 util.MathUtils No:122
+7
+71 util.MathUtils No:123
+1
+100 util.MathUtils No:124
+2
+1 util.Pair No:125
+1
+8 util.Pair No:126
+1
+8 util.Pair No:127
+1
+1 util.Precision No:128
+7
+55 util.Precision No:129
+7
+120 util.Precision No:130
+2

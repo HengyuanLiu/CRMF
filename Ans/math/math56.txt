@@ -1,0 +1,33 @@
+1 util.MultidimensionalCounter No:1(faultline)
+1 exception.MathRuntimeException No:2
+2
+34 exception.MathRuntimeException No:3
+1
+21 exception.MathRuntimeException No:4
+1
+1 exception.util.ArgUtils No:5
+0
+2 exception.util.ArgUtils No:6
+1
+3 exception.util.ArgUtils No:7
+3
+1 util.FastMath No:8
+101
+5088 util.FastMath No:9
+32
+3624 util.FastMath No:10
+0
+1 util.MathUtils No:11
+8
+450 util.MathUtils No:12
+1
+432 util.MathUtils No:13
+1
+1 util.MultidimensionalCounter No:14
+0
+52 util.MultidimensionalCounter No:15
+0
+51 util.MultidimensionalCounter No:16
+0
+1 util.MultidimensionalCounterTest No:17
+-

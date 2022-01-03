@@ -1,0 +1,10 @@
+
+field.TestFieldUtils
+field.TestFieldUtils.testSafeSubtractLong=1
+field.FieldUtils.safeSubtract=9
+field.FieldUtils.safeAdd=18
+field.TestFieldUtils.testSafeAddLong=1
+field.TestFieldUtils.testSafeMultiplyLongLong=1
+field.TestFieldUtils.suite=1
+field.FieldUtils.safeMultiply=24
+field.TestFieldUtils.testSafeAddInt=1

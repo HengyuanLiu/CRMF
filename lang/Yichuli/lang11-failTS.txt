@@ -1,0 +1,17 @@
+
+RandomStringUtilsTest
+RandomStringUtilsTest.testRandomAlphaNumeric=1
+RandomStringUtilsTest.testLang100=1
+RandomStringUtilsTest.testExceptions=1
+RandomStringUtilsTest.testRandomNumeric=1
+RandomStringUtilsTest.testRandomAscii=1
+RandomStringUtilsTest.testConstructor=1
+RandomStringUtilsTest.testRandomAlphabetic=1
+RandomStringUtilsTest.testRandomStringUtils=1
+RandomStringUtils.randomAlphanumeric=1
+RandomStringUtils.random=60
+RandomStringUtils.randomNumeric=2
+RandomStringUtilsTest.testLANG805=1
+RandomStringUtilsTest.testRandomStringUtilsHomog=1
+RandomStringUtils.randomAscii=2
+RandomStringUtils.randomAlphabetic=3

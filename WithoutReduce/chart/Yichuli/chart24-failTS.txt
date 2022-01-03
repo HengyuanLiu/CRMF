@@ -1,0 +1,11 @@
+chart.renderer.junit.GrayPaintScaleTests
+chart.renderer.GrayPaintScale.getLowerBound=1
+chart.renderer.junit.GrayPaintScaleTests.testSerialization=1
+chart.renderer.GrayPaintScale.getUpperBound=1
+chart.renderer.junit.GrayPaintScaleTests.testEquals=1
+chart.renderer.GrayPaintScale.clone=1
+chart.renderer.junit.GrayPaintScaleTests.testConstructor=1
+chart.renderer.junit.GrayPaintScaleTests.suite=1
+chart.renderer.GrayPaintScale.equals=9
+chart.renderer.GrayPaintScale.getPaint=2
+chart.renderer.junit.GrayPaintScaleTests.testCloning=1

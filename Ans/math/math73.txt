@@ -1,0 +1,49 @@
+1 analysis.solvers.BrentSolver No:1(faultline)
+1 ConvergingAlgorithmImpl No:2
+0
+4 ConvergingAlgorithmImpl No:3
+0
+6 ConvergingAlgorithmImpl No:4
+20
+1 MathRuntimeException No:5
+0
+5 MathRuntimeException No:6
+0
+4 MathRuntimeException No:7
+0
+1 analysis.MonitoredFunction No:8
+-
+1 analysis.QuinticFunction No:9
+-
+1 analysis.SinFunction No:10
+-
+1 analysis.solvers.BrentSolver No:11
+0
+92 analysis.solvers.BrentSolver No:12
+31
+147 analysis.solvers.BrentSolver No:13
+3
+1 analysis.solvers.BrentSolverTest No:14
+-
+1 analysis.solvers.SecantSolver No:15
+0
+27 analysis.solvers.SecantSolver No:16
+0
+78 analysis.solvers.SecantSolver No:17
+0
+1 analysis.solvers.UnivariateRealSolverFactory No:18
+-
+1 analysis.solvers.UnivariateRealSolverFactoryImpl No:19
+-
+1 analysis.solvers.UnivariateRealSolverImpl No:20
+0
+11 analysis.solvers.UnivariateRealSolverImpl No:21
+39
+25 analysis.solvers.UnivariateRealSolverImpl No:22
+3
+1 analysis.solvers.UnivariateRealSolverUtils No:23
+1
+11 analysis.solvers.UnivariateRealSolverUtils No:24
+8
+39 analysis.solvers.UnivariateRealSolverUtils No:25
+0

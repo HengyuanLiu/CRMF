@@ -1,0 +1,7 @@
+
+text.translate.EntityArraysTest
+text.translate.EntityArraysTest.testHTML40_EXTENDED_ESCAPE=1
+text.translate.EntityArraysTest.testConstructorExists=1
+text.translate.EntityArrays.invert=5
+text.translate.EntityArrays.ISO8859_1_ESCAPE=1
+text.translate.EntityArrays.HTML40_EXTENDED_ESCAPE=1

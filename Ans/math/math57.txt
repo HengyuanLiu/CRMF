@@ -1,0 +1,47 @@
+1 stat.clustering.KMeansPlusPlusClusterer No:1(faultline)
+1 stat.clustering.Cluster No:2
+0
+1 stat.clustering.EuclideanIntegerPoint No:3
+0
+24 stat.clustering.EuclideanIntegerPoint No:4
+0
+15 stat.clustering.EuclideanIntegerPoint No:5
+1
+1 stat.clustering.KMeansPlusPlusClusterer No:6
+0
+53 stat.clustering.KMeansPlusPlusClusterer No:7
+0
+11 stat.clustering.KMeansPlusPlusClusterer No:8
+0
+1 stat.clustering.KMeansPlusPlusClustererTest No:9
+-
+1 stat.descriptive.moment.FirstMoment No:10
+0
+11 stat.descriptive.moment.FirstMoment No:11
+33
+6 stat.descriptive.moment.FirstMoment No:12
+0
+1 stat.descriptive.moment.SecondMoment No:13
+1
+13 stat.descriptive.moment.SecondMoment No:14
+23
+16 stat.descriptive.moment.SecondMoment No:15
+25
+1 stat.descriptive.moment.Variance No:16
+22
+86 stat.descriptive.moment.Variance No:17
+19
+191 stat.descriptive.moment.Variance No:18
+0
+1 util.FastMath No:19
+101
+5240 util.FastMath No:20
+2
+5235 util.FastMath No:21
+3
+1 util.MathUtils No:22
+9
+510 util.MathUtils No:23
+12
+295 util.MathUtils No:24
+0

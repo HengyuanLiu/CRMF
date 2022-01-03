@@ -1,0 +1,6 @@
+
+chart.plot.junit.MultiplePiePlotTests
+chart.plot.DefaultDrawingSupplier.createStandardSeriesShapes=1
+chart.ChartColor.createDefaultPaintArray=1
+chart.plot.DefaultDrawingSupplier.intArray=10
+chart.plot.junit.MultiplePiePlotTests.suite=1

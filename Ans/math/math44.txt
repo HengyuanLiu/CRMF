@@ -1,0 +1,123 @@
+1 ode.AbstractIntegrator No:1(faultline)
+1 analysis.solvers.AllowedSolution No:2
+-
+1 analysis.solvers.BaseAbstractUnivariateRealSolver No:3
+3
+3 analysis.solvers.BaseAbstractUnivariateRealSolver No:4
+33
+10 analysis.solvers.BaseAbstractUnivariateRealSolver No:5
+23
+1 analysis.solvers.BaseSecantSolver No:6
+0
+106 analysis.solvers.BaseSecantSolver No:7
+4
+2 analysis.solvers.BaseSecantSolver No:8
+0
+1 analysis.solvers.BracketingNthOrderBrentSolver No:9
+10
+236 analysis.solvers.BracketingNthOrderBrentSolver No:10
+2
+288 analysis.solvers.BracketingNthOrderBrentSolver No:11
+2
+1 analysis.solvers.BrentSolver No:12
+2
+22 analysis.solvers.BrentSolver No:13
+3
+196 analysis.solvers.BrentSolver No:14
+2
+1 analysis.solvers.UnivariateRealSolverUtils No:15
+0
+98 analysis.solvers.UnivariateRealSolverUtils No:16
+17
+118 analysis.solvers.UnivariateRealSolverUtils No:17
+3
+1 ode.AbstractIntegrator No:18
+28
+51 ode.AbstractIntegrator No:19
+9
+7 ode.AbstractIntegrator No:20
+28
+1 ode.EquationsMapper No:21
+0
+2 ode.EquationsMapper No:22
+0
+6 ode.EquationsMapper No:23
+0
+1 ode.ExpandableStatefulODE No:24
+0
+35 ode.ExpandableStatefulODE No:25
+28
+28 ode.ExpandableStatefulODE No:26
+3
+1 ode.events.EventState No:27
+3
+135 ode.events.EventState No:28
+3
+101 ode.events.EventState No:29
+3
+1 ode.events.EventStateTest No:30
+-
+1 ode.nonstiff.AdaptiveStepsizeIntegrator No:31
+19
+69 ode.nonstiff.AdaptiveStepsizeIntegrator No:32
+12
+160 ode.nonstiff.AdaptiveStepsizeIntegrator No:33
+3
+1 ode.nonstiff.DormandPrince853Integrator No:34
+3
+294 ode.nonstiff.DormandPrince853Integrator No:35
+9
+318 ode.nonstiff.DormandPrince853Integrator No:36
+9
+1 ode.nonstiff.DormandPrince853StepInterpolator No:37
+7
+91 ode.nonstiff.DormandPrince853StepInterpolator No:38
+7
+371 ode.nonstiff.DormandPrince853StepInterpolator No:39
+7
+1 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:40
+12
+27 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:41
+15
+142 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:42
+14
+1 ode.nonstiff.RungeKuttaStepInterpolator No:43
+2
+5 ode.nonstiff.RungeKuttaStepInterpolator No:44
+3
+12 ode.nonstiff.RungeKuttaStepInterpolator No:45
+26
+1 ode.sampling.AbstractStepInterpolator No:46
+3
+87 ode.sampling.AbstractStepInterpolator No:47
+3
+67 ode.sampling.AbstractStepInterpolator No:48
+32
+1 ode.sampling.DummyStepInterpolator No:49
+-
+1 util.FastMath No:50
+3
+2494 util.FastMath No:51
+3
+6349 util.FastMath No:52
+3
+1 util.FastMathLiteralArrays No:53
+-
+1 util.Incrementor No:54
+3
+3 util.Incrementor No:55
+3
+2 util.Incrementor No:56
+88
+1 util.MathUtils No:57
+4
+64 util.MathUtils No:58
+4
+59 util.MathUtils No:59
+4
+1 util.Precision No:60
+4
+112 util.Precision No:61
+2
+27 util.Precision No:62
+3

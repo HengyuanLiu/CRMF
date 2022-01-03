@@ -1,0 +1,71 @@
+1 analysis.solvers.UnivariateRealSolverUtils No:1(faultline)
+1 MathException No:2
+4
+4 MathException No:3
+0
+4 MathException No:4
+0
+1 MathRuntimeException No:5
+0
+8 MathRuntimeException No:6
+0
+5 MathRuntimeException No:7
+0
+1 TestUtils No:8
+-
+1 analysis.solvers.BrentSolver No:9
+0
+90 analysis.solvers.BrentSolver No:10
+5
+108 analysis.solvers.BrentSolver No:11
+14
+1 analysis.solvers.UnivariateRealSolverFactory No:12
+-
+1 analysis.solvers.UnivariateRealSolverFactoryImpl No:13
+-
+1 analysis.solvers.UnivariateRealSolverImpl No:14
+0
+2 analysis.solvers.UnivariateRealSolverImpl No:15
+5
+4 analysis.solvers.UnivariateRealSolverImpl No:16
+0
+1 analysis.solvers.UnivariateRealSolverUtils No:17
+1
+56 analysis.solvers.UnivariateRealSolverUtils No:18
+2
+53 analysis.solvers.UnivariateRealSolverUtils No:19
+2
+1 distribution.AbstractContinuousDistribution No:20
+6
+8 distribution.AbstractContinuousDistribution No:21
+8
+10 distribution.AbstractContinuousDistribution No:22
+8
+1 distribution.AbstractDistribution No:23
+7
+5 distribution.AbstractDistribution No:24
+7
+1 distribution.AbstractDistribution No:25
+7
+1 distribution.ContinuousDistributionAbstractTest No:26
+-
+1 distribution.NormalDistributionImpl No:27
+0
+50 distribution.NormalDistributionImpl No:28
+1
+25 distribution.NormalDistributionImpl No:29
+0
+1 distribution.NormalDistributionTest No:30
+-
+1 special.Erf No:31
+2
+1 special.Erf No:32
+2
+5 special.Erf No:33
+2
+1 special.Gamma No:34
+20
+143 special.Gamma No:35
+8
+138 special.Gamma No:36
+6

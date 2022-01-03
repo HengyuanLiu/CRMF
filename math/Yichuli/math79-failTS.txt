@@ -1,0 +1,15 @@
+
+stat.clustering.KMeansPlusPlusClustererTest
+stat.clustering.Cluster.getCenter=239
+stat.clustering.KMeansPlusPlusClusterer.cluster=1
+stat.clustering.KMeansPlusPlusClusterer.chooseInitialCenters=2
+stat.clustering.EuclideanIntegerPoint.getPoint=323
+stat.clustering.KMeansPlusPlusClustererTest.dimension2=1
+stat.clustering.EuclideanIntegerPoint.centroidOf=6
+stat.clustering.EuclideanIntegerPoint.equals=6
+util.MathUtils.distance=224
+stat.clustering.EuclideanIntegerPoint.distanceFrom=224
+stat.clustering.KMeansPlusPlusClusterer.getNearestCluster=82
+stat.clustering.Cluster.addPoint=42
+stat.clustering.Cluster.getPoints=9
+stat.clustering.KMeansPlusPlusClusterer.assignPointsToClusters=2

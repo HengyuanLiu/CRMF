@@ -1,0 +1,59 @@
+1 optimization.general.AbstractLeastSquaresOptimizer No:1(faultline)
+(faultline)1 optimization.general.AbstractLeastSquaresOptimizer No:2
+0
+1 linear.AbstractRealMatrix No:3
+0
+454 linear.AbstractRealMatrix No:4
+1
+152 linear.AbstractRealMatrix No:5
+4
+1 linear.Array2DRowRealMatrix No:6
+28
+53 linear.Array2DRowRealMatrix No:7
+1
+203 linear.Array2DRowRealMatrix No:8
+0
+1 linear.BlockRealMatrix No:9
+6
+472 linear.BlockRealMatrix No:10
+3
+853 linear.BlockRealMatrix No:11
+1
+1 linear.LUDecompositionImpl No:12
+13
+84 linear.LUDecompositionImpl No:13
+1
+42 linear.LUDecompositionImpl No:14
+0
+1 linear.MatrixUtils No:15
+1
+186 linear.MatrixUtils No:16
+1
+122 linear.MatrixUtils No:17
+4
+1 optimization.SimpleVectorialValueChecker No:18
+0
+3 optimization.SimpleVectorialValueChecker No:19
+1
+14 optimization.SimpleVectorialValueChecker No:20
+2
+1 optimization.VectorialPointValuePair No:21
+0
+6 optimization.VectorialPointValuePair No:22
+0
+2 optimization.VectorialPointValuePair No:23
+0
+1 optimization.general.AbstractLeastSquaresOptimizer No:24
+3
+39 optimization.general.AbstractLeastSquaresOptimizer No:25
+2
+81 optimization.general.AbstractLeastSquaresOptimizer No:26
+0
+1 optimization.general.LevenbergMarquardtOptimizer No:27
+0
+273 optimization.general.LevenbergMarquardtOptimizer No:28
+0
+879 optimization.general.LevenbergMarquardtOptimizer No:29
+6
+1 optimization.general.LevenbergMarquardtOptimizerTest No:30
+-

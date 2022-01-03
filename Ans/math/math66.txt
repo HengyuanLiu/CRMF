@@ -1,0 +1,83 @@
+1 optimization.univariate.BrentOptimizer No:1(faultline)
+(faultline)1 optimization.univariate.BrentOptimizer No:2
+0
+(faultline)1 optimization.univariate.BrentOptimizer No:3
+0
+1 ConvergingAlgorithmImpl No:4
+0
+11 ConvergingAlgorithmImpl No:5
+1
+9 ConvergingAlgorithmImpl No:6
+0
+1 MathRuntimeException No:7
+0
+10 MathRuntimeException No:8
+0
+2 MathRuntimeException No:9
+0
+1 analysis.QuinticFunction No:10
+-
+1 analysis.SinFunction No:11
+-
+1 exception.MathIllegalArgumentException No:12
+0
+3 exception.MathIllegalArgumentException No:13
+0
+11 exception.MathIllegalArgumentException No:14
+0
+1 optimization.MultiStartUnivariateRealOptimizer No:15
+0
+26 optimization.MultiStartUnivariateRealOptimizer No:16
+0
+51 optimization.MultiStartUnivariateRealOptimizer No:17
+0
+1 optimization.univariate.AbstractUnivariateRealOptimizer No:18
+0
+8 optimization.univariate.AbstractUnivariateRealOptimizer No:19
+0
+6 optimization.univariate.AbstractUnivariateRealOptimizer No:20
+0
+1 optimization.univariate.BrentOptimizer No:21
+0
+195 optimization.univariate.BrentOptimizer No:22
+0
+60 optimization.univariate.BrentOptimizer No:23
+1
+1 optimization.univariate.BrentOptimizerTest No:24
+-
+1 stat.descriptive.AbstractUnivariateStatistic No:25
+1
+35 stat.descriptive.AbstractUnivariateStatistic No:26
+0
+31 stat.descriptive.AbstractUnivariateStatistic No:27
+4
+1 stat.descriptive.DescriptiveStatistics No:28
+0
+50 stat.descriptive.DescriptiveStatistics No:29
+2
+37 stat.descriptive.DescriptiveStatistics No:30
+2
+1 stat.descriptive.moment.Mean No:31
+6
+58 stat.descriptive.moment.Mean No:32
+1
+33 stat.descriptive.moment.Mean No:33
+0
+1 stat.descriptive.rank.Percentile No:34
+2
+41 stat.descriptive.rank.Percentile No:35
+1
+29 stat.descriptive.rank.Percentile No:36
+5
+1 stat.descriptive.summary.Sum No:37
+0
+4 stat.descriptive.summary.Sum No:38
+0
+28 stat.descriptive.summary.Sum No:39
+2
+1 util.ResizableDoubleArray No:40
+6
+112 util.ResizableDoubleArray No:41
+2
+49 util.ResizableDoubleArray No:42
+0

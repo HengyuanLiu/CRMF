@@ -1,0 +1,69 @@
+1 text.translate.CharSequenceTranslator No:1(faultline)
+1 ArrayUtils No:2
+1
+574 ArrayUtils No:3
+1
+1565 ArrayUtils No:4
+1
+1 CharSequenceUtils No:5
+1
+15 CharSequenceUtils No:6
+0
+23 CharSequenceUtils No:7
+1
+1 JavaVersion No:8
+1
+23 JavaVersion No:9
+1
+16 JavaVersion No:10
+1
+1 ObjectUtils No:11
+2
+58 ObjectUtils No:12
+1
+15 ObjectUtils No:13
+2
+1 StringUtils No:14
+10
+195 StringUtils No:15
+1
+250 StringUtils No:16
+1
+1 StringUtilsTest No:17
+-
+1 SystemUtils No:18
+0
+26 SystemUtils No:19
+0
+34 SystemUtils No:20
+0
+1 builder.EqualsBuilder No:21
+3
+76 builder.EqualsBuilder No:22
+1
+161 builder.EqualsBuilder No:23
+0
+1 text.WordUtils No:24
+1
+151 text.WordUtils No:25
+1
+26 text.WordUtils No:26
+1
+1 text.translate.CharSequenceTranslator No:27
+1
+25 text.translate.CharSequenceTranslator No:28
+2
+26 text.translate.CharSequenceTranslator No:29
+2
+1 text.translate.EntityArrays No:30
+0
+5 text.translate.EntityArrays No:31
+1
+4 text.translate.EntityArrays No:32
+2
+1 text.translate.UnicodeEscaper No:33
+1
+38 text.translate.UnicodeEscaper No:34
+0
+12 text.translate.UnicodeEscaper No:35
+1

@@ -1,0 +1,69 @@
+1 stat.regression.SimpleRegression No:1(faultline)
+1 analysis.BrentSolver No:2
+0
+128 analysis.BrentSolver No:3
+1
+112 analysis.BrentSolver No:4
+1
+1 analysis.UnivariateRealSolverFactory No:5
+7
+2 analysis.UnivariateRealSolverFactory No:6
+7
+1 analysis.UnivariateRealSolverFactoryImpl No:7
+-
+1 analysis.UnivariateRealSolverImpl No:8
+1
+25 analysis.UnivariateRealSolverImpl No:9
+3
+2 analysis.UnivariateRealSolverImpl No:10
+11
+1 analysis.UnivariateRealSolverUtils No:11
+7
+25 analysis.UnivariateRealSolverUtils No:12
+8
+39 analysis.UnivariateRealSolverUtils No:13
+0
+1 distribution.AbstractContinuousDistribution No:14
+5
+6 distribution.AbstractContinuousDistribution No:15
+5
+1 distribution.AbstractContinuousDistribution No:16
+5
+1 distribution.DistributionFactory No:17
+18
+2 distribution.DistributionFactory No:18
+18
+1 distribution.DistributionFactoryImpl No:19
+-
+1 distribution.TDistributionImpl No:20
+5
+34 distribution.TDistributionImpl No:21
+4
+39 distribution.TDistributionImpl No:22
+4
+1 special.Beta No:23
+8
+58 special.Beta No:24
+8
+99 special.Beta No:25
+8
+1 special.Gamma No:26
+16
+81 special.Gamma No:27
+0
+176 special.Gamma No:28
+7
+1 stat.regression.SimpleRegression No:29
+0
+174 stat.regression.SimpleRegression No:30
+0
+146 stat.regression.SimpleRegression No:31
+0
+1 stat.regression.SimpleRegressionTest No:32
+-
+1 util.ContinuedFraction No:33
+0
+94 util.ContinuedFraction No:34
+17
+92 util.ContinuedFraction No:35
+0

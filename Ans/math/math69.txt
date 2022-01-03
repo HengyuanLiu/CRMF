@@ -1,0 +1,125 @@
+1 stat.correlation.PearsonsCorrelation No:1(faultline)
+1 MathRuntimeException No:2
+0
+1 MathRuntimeException No:3
+0
+6 MathRuntimeException No:4
+0
+1 TestUtils No:5
+-
+1 distribution.TDistributionImpl No:6
+2
+34 distribution.TDistributionImpl No:7
+1
+52 distribution.TDistributionImpl No:8
+1
+1 linear.BlockRealMatrix No:9
+5
+225 linear.BlockRealMatrix No:10
+0
+170 linear.BlockRealMatrix No:11
+9
+1 linear.MatrixUtils No:12
+1
+29 linear.MatrixUtils No:13
+0
+28 linear.MatrixUtils No:14
+0
+1 special.Beta No:15
+11
+128 special.Beta No:16
+11
+154 special.Beta No:17
+11
+1 special.Gamma No:18
+22
+292 special.Gamma No:19
+1
+12 special.Gamma No:20
+22
+1 stat.correlation.Covariance No:21
+1
+16 stat.correlation.Covariance No:22
+1
+43 stat.correlation.Covariance No:23
+1
+1 stat.correlation.PearsonsCorrelation No:24
+0
+28 stat.correlation.PearsonsCorrelation No:25
+1
+64 stat.correlation.PearsonsCorrelation No:26
+0
+1 stat.correlation.PearsonsCorrelationTest No:27
+-
+1 stat.correlation.SpearmansCorrelation No:28
+0
+8 stat.correlation.SpearmansCorrelation No:29
+0
+10 stat.correlation.SpearmansCorrelation No:30
+0
+1 stat.correlation.SpearmansRankCorrelationTest No:31
+-
+1 stat.descriptive.AbstractStorelessUnivariateStatistic No:32
+1
+30 stat.descriptive.AbstractStorelessUnivariateStatistic No:33
+0
+13 stat.descriptive.AbstractStorelessUnivariateStatistic No:34
+18
+1 stat.descriptive.AbstractUnivariateStatistic No:35
+1
+23 stat.descriptive.AbstractUnivariateStatistic No:36
+4
+17 stat.descriptive.AbstractUnivariateStatistic No:37
+33
+1 stat.descriptive.moment.FirstMoment No:38
+0
+11 stat.descriptive.moment.FirstMoment No:39
+33
+21 stat.descriptive.moment.FirstMoment No:40
+30
+1 stat.descriptive.moment.Mean No:41
+6
+59 stat.descriptive.moment.Mean No:42
+0
+28 stat.descriptive.moment.Mean No:43
+17
+1 stat.descriptive.moment.SecondMoment No:44
+1
+15 stat.descriptive.moment.SecondMoment No:45
+22
+12 stat.descriptive.moment.SecondMoment No:46
+26
+1 stat.descriptive.moment.Variance No:47
+21
+18 stat.descriptive.moment.Variance No:48
+16
+142 stat.descriptive.moment.Variance No:49
+1
+1 stat.descriptive.summary.Sum No:50
+0
+2 stat.descriptive.summary.Sum No:51
+5
+28 stat.descriptive.summary.Sum No:52
+2
+1 stat.ranking.NaNStrategy No:53
+-
+1 stat.ranking.NaturalRanking No:54
+0
+48 stat.ranking.NaturalRanking No:55
+2
+80 stat.ranking.NaturalRanking No:56
+1
+1 stat.ranking.TiesStrategy No:57
+-
+1 stat.regression.SimpleRegression No:58
+1
+169 stat.regression.SimpleRegression No:59
+1
+302 stat.regression.SimpleRegression No:60
+1
+1 util.ContinuedFraction No:61
+0
+1 util.ContinuedFraction No:62
+0
+142 util.ContinuedFraction No:63
+21

@@ -1,0 +1,29 @@
+1 optimization.direct.MultiDirectional No:1(faultline)
+1 MathException No:2
+4
+5 MathException No:3
+0
+3 MathException No:4
+0
+1 optimization.RealPointValuePair No:5
+-
+1 optimization.SimpleScalarValueChecker No:6
+3
+4 optimization.SimpleScalarValueChecker No:7
+4
+12 optimization.SimpleScalarValueChecker No:8
+0
+1 optimization.direct.DirectSearchOptimizer No:9
+0
+126 optimization.direct.DirectSearchOptimizer No:10
+1
+87 optimization.direct.DirectSearchOptimizer No:11
+2
+1 optimization.direct.MultiDirectional No:12
+2
+1 optimization.direct.MultiDirectional No:13
+2
+24 optimization.direct.MultiDirectional No:14
+0
+1 optimization.direct.MultiDirectionalTest No:15
+-

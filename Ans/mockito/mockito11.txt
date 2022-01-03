@@ -1,0 +1,213 @@
+1 internal.creation.DelegatingMethod No:1(faultline)
+(faultline)1 internal.creation.DelegatingMethod No:2
+0
+1 MockitoAnnotations No:3
+2
+10 MockitoAnnotations No:4
+0
+2 MockitoAnnotations No:5
+2
+1 StateMaster No:6
+-
+1 configuration.DefaultMockitoConfiguration No:7
+-
+1 configuration.MockitoConfiguration No:8
+-
+1 internal.configuration.ClassPathLoader No:9
+1
+16 internal.configuration.ClassPathLoader No:10
+2
+3 internal.configuration.ClassPathLoader No:11
+0
+1 internal.configuration.ConfigurationAccess No:12
+-
+1 internal.configuration.DefaultAnnotationEngine No:13
+83
+5 internal.configuration.DefaultAnnotationEngine No:14
+29
+7 internal.configuration.DefaultAnnotationEngine No:15
+85
+1 internal.configuration.DefaultInjectionEngine No:16
+15
+1 internal.configuration.GlobalConfiguration No:17
+239
+2 internal.configuration.GlobalConfiguration No:18
+239
+3 internal.configuration.GlobalConfiguration No:19
+0
+1 internal.configuration.InjectingAnnotationEngine No:20
+10
+3 internal.configuration.InjectingAnnotationEngine No:21
+213
+14 internal.configuration.InjectingAnnotationEngine No:22
+14
+1 internal.configuration.SpyAnnotationEngine No:23
+5
+8 internal.configuration.SpyAnnotationEngine No:24
+1
+3 internal.configuration.SpyAnnotationEngine No:25
+1
+1 internal.configuration.injection.MockInjection No:26
+16
+3 internal.configuration.injection.MockInjection No:27
+5
+5 internal.configuration.injection.MockInjection No:28
+3
+1 internal.configuration.injection.MockInjectionStrategy No:29
+214
+8 internal.configuration.injection.MockInjectionStrategy No:30
+19
+1 internal.configuration.injection.MockInjectionStrategy No:31
+214
+1 internal.configuration.injection.scanner.InjectMocksScanner No:32
+14
+7 internal.configuration.injection.scanner.InjectMocksScanner No:33
+1
+6 internal.configuration.injection.scanner.InjectMocksScanner No:34
+16
+1 internal.configuration.injection.scanner.MockScanner No:35
+13
+6 internal.configuration.injection.scanner.MockScanner No:36
+12
+20 internal.configuration.injection.scanner.MockScanner No:37
+1
+1 internal.creation.CglibMockMaker No:38
+2
+2 internal.creation.CglibMockMaker No:39
+1
+1 internal.creation.CglibMockMaker No:40
+2
+1 internal.creation.DelegatingMethod No:41
+1
+4 internal.creation.DelegatingMethod No:42
+1
+4 internal.creation.DelegatingMethod No:43
+1
+1 internal.creation.DelegatingMethodTest No:44
+-
+1 internal.progress.ArgumentMatcherStorageImpl No:45
+58
+26 internal.progress.ArgumentMatcherStorageImpl No:46
+1
+23 internal.progress.ArgumentMatcherStorageImpl No:47
+2
+1 internal.progress.MockingProgressImpl No:48
+74
+9 internal.progress.MockingProgressImpl No:49
+94
+14 internal.progress.MockingProgressImpl No:50
+2
+1 internal.progress.ThreadSafeMockingProgress No:51
+237
+10 internal.progress.ThreadSafeMockingProgress No:52
+2
+4 internal.progress.ThreadSafeMockingProgress No:53
+64
+1 internal.util.Checks No:54
+3
+2 internal.util.Checks No:55
+1
+3 internal.util.Checks No:56
+1
+1 internal.util.MockUtil No:57
+6
+21 internal.util.MockUtil No:58
+2
+20 internal.util.MockUtil No:59
+1
+1 internal.util.collections.HashCodeAndEqualsSafeSet No:60
+0
+3 internal.util.collections.HashCodeAndEqualsSafeSet No:61
+0
+14 internal.util.collections.HashCodeAndEqualsSafeSet No:62
+15
+1 internal.util.collections.Sets No:63
+0
+1 internal.util.reflection.AccessibilityChanger No:64
+0
+4 internal.util.reflection.AccessibilityChanger No:65
+163
+2 internal.util.reflection.AccessibilityChanger No:66
+0
+1 internal.util.reflection.FieldReader No:67
+158
+2 internal.util.reflection.FieldReader No:68
+5
+1 org.junit.Assert No:69
+-
+1 org.junit.internal.Classes No:70
+-
+1 org.junit.internal.MethodSorter No:71
+-
+1 org.junit.internal.RealSystem No:72
+-
+1 org.junit.internal.TextListener No:73
+-
+1 org.junit.internal.builders.AllDefaultPossibilitiesBuilder No:74
+-
+1 org.junit.internal.builders.AnnotatedBuilder No:75
+-
+1 org.junit.internal.builders.IgnoredBuilder No:76
+-
+1 org.junit.internal.builders.JUnit3Builder No:77
+-
+1 org.junit.internal.builders.JUnit4Builder No:78
+-
+1 org.junit.internal.builders.SuiteMethodBuilder No:79
+-
+1 org.junit.internal.runners.model.EachTestNotifier No:80
+-
+1 org.junit.internal.runners.model.ReflectiveCallable No:81
+-
+1 org.junit.internal.runners.rules.RuleMemberValidator No:82
+-
+1 org.junit.internal.runners.statements.InvokeMethod No:83
+-
+1 org.junit.internal.runners.statements.RunAfters No:84
+-
+1 org.junit.internal.runners.statements.RunBefores No:85
+-
+1 org.junit.runner.Computer No:86
+-
+1 org.junit.runner.Description No:87
+-
+1 org.junit.runner.JUnitCommandLineParseResult No:88
+-
+1 org.junit.runner.JUnitCore No:89
+-
+1 org.junit.runner.Request No:90
+-
+1 org.junit.runner.Result No:91
+-
+1 org.junit.runner.notification.Failure No:92
+-
+1 org.junit.runner.notification.RunListener No:93
+-
+1 org.junit.runner.notification.RunNotifier No:94
+-
+1 org.junit.runner.notification.SynchronizedRunListener No:95
+-
+1 org.junit.runners.BlockJUnit4ClassRunner No:96
+-
+1 org.junit.runners.ParentRunner No:97
+-
+1 org.junit.runners.Suite No:98
+-
+1 org.junit.runners.model.FrameworkField No:99
+-
+1 org.junit.runners.model.FrameworkMember No:100
+-
+1 org.junit.runners.model.FrameworkMethod No:101
+-
+1 org.junit.runners.model.MultipleFailureException No:102
+-
+1 org.junit.runners.model.RunnerBuilder No:103
+-
+1 org.junit.runners.model.TestClass No:104
+-
+1 org.junit.validator.AnnotationsValidator No:105
+-
+1 org.junit.validator.PublicClassValidator No:106
+-
+1 org.mockitoutil.TestBase No:107
+-

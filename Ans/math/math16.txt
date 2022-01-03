@@ -1,0 +1,45 @@
+1 util.FastMath No:1(faultline)
+(faultline)1 util.FastMath No:2
+0
+1 TestUtils No:3
+-
+1 dfp.Dfp No:4
+0
+2229 dfp.Dfp No:5
+0
+1571 dfp.Dfp No:6
+1
+1 dfp.DfpField No:7
+5
+115 dfp.DfpField No:8
+3
+130 dfp.DfpField No:9
+5
+1 dfp.DfpMath No:10
+0
+145 dfp.DfpMath No:11
+0
+301 dfp.DfpMath No:12
+2
+1 random.BitsStreamGenerator No:13
+0
+45 random.BitsStreamGenerator No:14
+16
+10 random.BitsStreamGenerator No:15
+11
+1 random.MersenneTwister No:16
+2
+11 random.MersenneTwister No:17
+0
+65 random.MersenneTwister No:18
+3
+1 util.FastMath No:19
+0
+1570 util.FastMath No:20
+5
+5246 util.FastMath No:21
+4
+1 util.FastMathLiteralArrays No:22
+-
+1 util.FastMathTest No:23
+-

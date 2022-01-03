@@ -1,0 +1,31 @@
+1 analysis.solvers.BisectionSolver No:1(faultline)
+1 ConvergingAlgorithmImpl No:2
+0
+8 ConvergingAlgorithmImpl No:3
+10
+6 ConvergingAlgorithmImpl No:4
+21
+1 analysis.QuinticFunction No:5
+-
+1 analysis.SinFunction No:6
+-
+1 analysis.solvers.BisectionSolver No:7
+0
+11 analysis.solvers.BisectionSolver No:8
+0
+8 analysis.solvers.BisectionSolver No:9
+0
+1 analysis.solvers.BisectionSolverTest No:10
+-
+1 analysis.solvers.UnivariateRealSolverImpl No:11
+0
+19 analysis.solvers.UnivariateRealSolverImpl No:12
+0
+16 analysis.solvers.UnivariateRealSolverImpl No:13
+0
+1 analysis.solvers.UnivariateRealSolverUtils No:14
+1
+32 analysis.solvers.UnivariateRealSolverUtils No:15
+6
+30 analysis.solvers.UnivariateRealSolverUtils No:16
+7

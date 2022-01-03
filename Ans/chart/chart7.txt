@@ -1,0 +1,65 @@
+1 data.time.TimePeriodValues No:1(faultline)
+1 chart.util.ObjectUtilities No:2
+2
+17 chart.util.ObjectUtilities No:3
+23
+25 chart.util.ObjectUtilities No:4
+2
+1 data.general.Series No:5
+4
+48 data.general.Series No:6
+69
+26 data.general.Series No:7
+16
+1 data.time.Day No:8
+16
+50 data.time.Day No:9
+2
+14 data.time.Day No:10
+5
+1 data.time.RegularTimePeriod No:11
+3
+39 data.time.RegularTimePeriod No:12
+3
+14 data.time.RegularTimePeriod No:13
+3
+1 data.time.SerialDate No:14
+2
+131 data.time.SerialDate No:15
+2
+74 data.time.SerialDate No:16
+4
+1 data.time.SimpleTimePeriod No:17
+11
+56 data.time.SimpleTimePeriod No:18
+3
+44 data.time.SimpleTimePeriod No:19
+2
+1 data.time.SpreadsheetDate No:20
+21
+51 data.time.SpreadsheetDate No:21
+4
+206 data.time.SpreadsheetDate No:22
+2
+1 data.time.TimePeriodValue No:23
+4
+4 data.time.TimePeriodValue No:24
+3
+24 data.time.TimePeriodValue No:25
+2
+1 data.time.TimePeriodValues No:26
+2
+157 data.time.TimePeriodValues No:27
+2
+75 data.time.TimePeriodValues No:28
+2
+1 data.time.Year No:29
+14
+16 data.time.Year No:30
+3
+14 data.time.Year No:31
+3
+1 data.time.junit.TimePeriodValuesTests No:32
+-
+1 data.time.junit.TimePeriodValuesTests$MySeriesChangeListener No:33
+-

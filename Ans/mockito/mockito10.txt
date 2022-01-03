@@ -1,0 +1,377 @@
+1 internal.stubbing.defaultanswers.ReturnsDeepStubs No:1(faultline)
+(faultline)1 internal.stubbing.defaultanswers.ReturnsDeepStubs No:2
+0
+(faultline)1 internal.stubbing.defaultanswers.ReturnsDeepStubs No:3
+1
+1 Answers No:4
+-
+1 Mockito No:5
+2
+3 Mockito No:6
+7
+1 Mockito No:7
+1
+1 asm.ByteVector No:8
+-
+1 asm.ClassReader No:9
+-
+1 asm.ClassWriter No:10
+-
+1 asm.FieldWriter No:11
+-
+1 asm.Item No:12
+-
+1 asm.Label No:13
+-
+1 asm.MethodAdapter No:14
+-
+1 asm.MethodWriter No:15
+-
+1 asm.Type No:16
+-
+1 cglib.core.AbstractClassGenerator No:17
+-
+1 cglib.core.ClassEmitter No:18
+-
+1 cglib.core.ClassInfo No:19
+-
+1 cglib.core.ClassNameReader No:20
+-
+1 cglib.core.CodeEmitter No:21
+-
+1 cglib.core.CollectionUtils No:22
+-
+1 cglib.core.DebuggingClassWriter No:23
+-
+1 cglib.core.DefaultGeneratorStrategy No:24
+-
+1 cglib.core.DefaultNamingPolicy No:25
+-
+1 cglib.core.DuplicatesPredicate No:26
+-
+1 cglib.core.EmitUtils No:27
+-
+1 cglib.core.KeyFactory No:28
+-
+1 cglib.core.Local No:29
+-
+1 cglib.core.LocalVariablesSorter No:30
+-
+1 cglib.core.MethodInfo No:31
+-
+1 cglib.core.MethodInfoTransformer No:32
+-
+1 cglib.core.MethodWrapper No:33
+-
+1 cglib.core.ReflectUtils No:34
+-
+1 cglib.core.RejectModifierPredicate No:35
+-
+1 cglib.core.Signature No:36
+-
+1 cglib.core.TypeUtils No:37
+-
+1 cglib.core.VisibilityPredicate No:38
+-
+1 cglib.proxy.CallbackInfo No:39
+-
+1 cglib.proxy.Enhancer No:40
+-
+1 cglib.proxy.MethodInterceptorGenerator No:41
+-
+1 cglib.proxy.MethodProxy No:42
+-
+1 configuration.MockitoConfiguration No:43
+-
+1 exceptions.base.MockitoException No:44
+1
+1 exceptions.base.MockitoException No:45
+1
+3 exceptions.base.MockitoException No:46
+2
+1 internal.MockitoCore No:47
+198
+30 internal.MockitoCore No:48
+2
+16 internal.MockitoCore No:49
+1
+1 internal.configuration.ClassPathLoader No:50
+0
+11 internal.configuration.ClassPathLoader No:51
+1
+16 internal.configuration.ClassPathLoader No:52
+1
+1 internal.configuration.GlobalConfiguration No:53
+244
+2 internal.configuration.GlobalConfiguration No:54
+244
+3 internal.configuration.GlobalConfiguration No:55
+1
+1 internal.creation.AcrossJVMSerializationFeature No:56
+2
+27 internal.creation.AcrossJVMSerializationFeature No:57
+1
+4 internal.creation.AcrossJVMSerializationFeature No:58
+1
+1 internal.creation.CglibMockMaker No:59
+2
+3 internal.creation.CglibMockMaker No:60
+113
+3 internal.creation.CglibMockMaker No:61
+114
+1 internal.creation.DelegatingMethod No:62
+0
+1 internal.creation.DelegatingMethod No:63
+1
+5 internal.creation.DelegatingMethod No:64
+1
+1 internal.creation.DelegatingMockitoMethodProxy No:65
+-
+1 internal.creation.MethodInterceptorFilter No:66
+125
+11 internal.creation.MethodInterceptorFilter No:67
+0
+2 internal.creation.MethodInterceptorFilter No:68
+152
+1 internal.creation.MockSettingsImpl No:69
+9
+46 internal.creation.MockSettingsImpl No:70
+198
+14 internal.creation.MockSettingsImpl No:71
+3
+1 internal.creation.cglib.CGLIBHacker No:72
+151
+2 internal.creation.cglib.CGLIBHacker No:73
+151
+3 internal.creation.cglib.CGLIBHacker No:74
+2
+1 internal.creation.cglib.MockitoNamingPolicy No:75
+-
+1 internal.creation.jmock.ClassImposterizer No:76
+4
+16 internal.creation.jmock.ClassImposterizer No:77
+1
+8 internal.creation.jmock.ClassImposterizer No:78
+0
+1 internal.creation.jmock.SearchingClassLoader No:79
+1
+11 internal.creation.jmock.SearchingClassLoader No:80
+199
+3 internal.creation.jmock.SearchingClassLoader No:81
+1
+1 internal.creation.settings.CreationSettings No:82
+1
+13 internal.creation.settings.CreationSettings No:83
+31
+10 internal.creation.settings.CreationSettings No:84
+198
+1 internal.exceptions.stacktrace.ConditionalStackTraceFilter No:85
+4
+2 internal.exceptions.stacktrace.ConditionalStackTraceFilter No:86
+2
+4 internal.exceptions.stacktrace.ConditionalStackTraceFilter No:87
+4
+1 internal.exceptions.stacktrace.DefaultStackTraceCleanerProvider No:88
+-
+1 internal.handler.InvocationNotifierHandler No:89
+5
+6 internal.handler.InvocationNotifierHandler No:90
+1
+2 internal.handler.InvocationNotifierHandler No:91
+3
+1 internal.handler.MockHandlerFactory No:92
+-
+1 internal.handler.MockHandlerImpl No:93
+0
+10 internal.handler.MockHandlerImpl No:94
+91
+2 internal.handler.MockHandlerImpl No:95
+1
+1 internal.handler.NullResultGuardian No:96
+2
+4 internal.handler.NullResultGuardian No:97
+1
+3 internal.handler.NullResultGuardian No:98
+2
+1 internal.invocation.ArgumentsProcessor No:99
+103
+34 internal.invocation.ArgumentsProcessor No:100
+9
+6 internal.invocation.ArgumentsProcessor No:101
+24
+1 internal.invocation.InvocationImpl No:102
+1
+11 internal.invocation.InvocationImpl No:103
+2
+7 internal.invocation.InvocationImpl No:104
+2
+1 internal.invocation.InvocationMatcher No:105
+60
+51 internal.invocation.InvocationMatcher No:106
+1
+62 internal.invocation.InvocationMatcher No:107
+2
+1 internal.invocation.MatchersBinder No:108
+3
+1 internal.invocation.MatchersBinder No:109
+3
+3 internal.invocation.MatchersBinder No:110
+4
+1 internal.progress.ArgumentMatcherStorageImpl No:111
+58
+32 internal.progress.ArgumentMatcherStorageImpl No:112
+242
+36 internal.progress.ArgumentMatcherStorageImpl No:113
+3
+1 internal.progress.MockingProgressImpl No:114
+77
+8 internal.progress.MockingProgressImpl No:115
+149
+21 internal.progress.MockingProgressImpl No:116
+71
+1 internal.progress.SequenceNumber No:117
+-
+1 internal.progress.ThreadSafeMockingProgress No:118
+242
+9 internal.progress.ThreadSafeMockingProgress No:119
+3
+5 internal.progress.ThreadSafeMockingProgress No:120
+6
+1 internal.stubbing.InvocationContainerImpl No:121
+132
+1 internal.stubbing.InvocationContainerImpl No:122
+132
+30 internal.stubbing.InvocationContainerImpl No:123
+99
+1 internal.stubbing.defaultanswers.ReturnsDeepStubs No:124
+3
+9 internal.stubbing.defaultanswers.ReturnsDeepStubs No:125
+4
+2 internal.stubbing.defaultanswers.ReturnsDeepStubs No:126
+3
+1 internal.util.Checks No:127
+2
+2 internal.util.Checks No:128
+1
+3 internal.util.Checks No:129
+2
+1 internal.util.MockCreationValidator No:130
+197
+17 internal.util.MockCreationValidator No:131
+3
+29 internal.util.MockCreationValidator No:132
+5
+1 internal.util.MockNameImpl No:133
+14
+1 internal.util.MockNameImpl No:134
+14
+4 internal.util.MockNameImpl No:135
+109
+1 internal.util.MockUtil No:136
+7
+19 internal.util.MockUtil No:137
+0
+18 internal.util.MockUtil No:138
+3
+1 internal.util.ObjectMethodsGuru No:139
+16
+7 internal.util.ObjectMethodsGuru No:140
+1
+12 internal.util.ObjectMethodsGuru No:141
+2
+1 internal.util.StringJoiner No:142
+42
+1 internal.util.StringJoiner No:143
+42
+3 internal.util.StringJoiner No:144
+1
+1 internal.util.reflection.Constructors No:145
+-
+1 internal.util.reflection.GenericMetadataSupport No:146
+5
+90 internal.util.reflection.GenericMetadataSupport No:147
+2
+20 internal.util.reflection.GenericMetadataSupport No:148
+3
+1 internal.verification.DefaultRegisteredInvocations No:149
+133
+2 internal.verification.DefaultRegisteredInvocations No:150
+1
+1 internal.verification.DefaultRegisteredInvocations No:151
+132
+1 org.junit.Assert No:152
+-
+1 org.junit.internal.Classes No:153
+-
+1 org.junit.internal.MethodSorter No:154
+-
+1 org.junit.internal.RealSystem No:155
+-
+1 org.junit.internal.TextListener No:156
+-
+1 org.junit.internal.builders.AllDefaultPossibilitiesBuilder No:157
+-
+1 org.junit.internal.builders.AnnotatedBuilder No:158
+-
+1 org.junit.internal.builders.IgnoredBuilder No:159
+-
+1 org.junit.internal.builders.JUnit3Builder No:160
+-
+1 org.junit.internal.builders.JUnit4Builder No:161
+-
+1 org.junit.internal.builders.SuiteMethodBuilder No:162
+-
+1 org.junit.internal.runners.model.EachTestNotifier No:163
+-
+1 org.junit.internal.runners.model.ReflectiveCallable No:164
+-
+1 org.junit.internal.runners.rules.RuleMemberValidator No:165
+-
+1 org.junit.runner.Computer No:166
+-
+1 org.junit.runner.Description No:167
+-
+1 org.junit.runner.JUnitCommandLineParseResult No:168
+-
+1 org.junit.runner.JUnitCore No:169
+-
+1 org.junit.runner.Request No:170
+-
+1 org.junit.runner.Result No:171
+-
+1 org.junit.runner.notification.Failure No:172
+-
+1 org.junit.runner.notification.RunListener No:173
+-
+1 org.junit.runner.notification.RunNotifier No:174
+-
+1 org.junit.runner.notification.SynchronizedRunListener No:175
+-
+1 org.junit.runners.BlockJUnit4ClassRunner No:176
+-
+1 org.junit.runners.ParentRunner No:177
+-
+1 org.junit.runners.Suite No:178
+-
+1 org.junit.runners.model.FrameworkMember No:179
+-
+1 org.junit.runners.model.FrameworkMethod No:180
+-
+1 org.junit.runners.model.RunnerBuilder No:181
+-
+1 org.junit.runners.model.TestClass No:182
+-
+1 org.junit.validator.AnnotationsValidator No:183
+-
+1 org.junit.validator.PublicClassValidator No:184
+-
+1 org.objenesis.ObjenesisBase No:185
+-
+1 org.objenesis.instantiator.sun.SunReflectionFactoryHelper No:186
+-
+1 org.objenesis.instantiator.sun.SunReflectionFactoryInstantiator No:187
+-
+1 org.objenesis.strategy.PlatformDescription No:188
+-
+1 org.objenesis.strategy.StdInstantiatorStrategy No:189
+-

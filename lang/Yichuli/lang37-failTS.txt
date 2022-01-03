@@ -1,0 +1,17 @@
+
+ArrayUtilsAddTest
+ArrayUtilsAddTest.testAddObjectArrayInt=1
+ArrayUtilsAddTest.testAddObjectArrayByte=1
+ArrayUtils.add=121
+ArrayUtilsAddTest.testAddObjectArrayFloat=1
+ArrayUtilsAddTest.testAddObjectAtIndex=1
+ArrayUtils.addAll=33
+ArrayUtilsAddTest.testAddObjectArrayObject=1
+ArrayUtilsAddTest.testAddObjectArrayShort=1
+ArrayUtilsAddTest.testAddObjectArrayToObjectArray=1
+ArrayUtilsAddTest.testAddObjectArrayChar=1
+ArrayUtilsAddTest.testAddObjectArrayLong=1
+ArrayUtils.clone=21
+ArrayUtilsAddTest.testAddObjectArrayDouble=1
+ArrayUtilsAddTest.testAddObjectArrayBoolean=1
+ArrayUtils.copyArrayGrow1=40

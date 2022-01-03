@@ -1,0 +1,67 @@
+1 distribution.NormalDistributionImpl No:1(faultline)
+1 MathException No:2
+1
+19 MathException No:3
+0
+13 MathException No:4
+1
+1 TestUtils No:5
+-
+1 analysis.BrentSolver No:6
+1
+27 analysis.BrentSolver No:7
+1
+211 analysis.BrentSolver No:8
+1
+1 analysis.UnivariateRealSolverFactory No:9
+7
+2 analysis.UnivariateRealSolverFactory No:10
+7
+1 analysis.UnivariateRealSolverFactoryImpl No:11
+-
+1 analysis.UnivariateRealSolverImpl No:12
+1
+30 analysis.UnivariateRealSolverImpl No:13
+0
+19 analysis.UnivariateRealSolverImpl No:14
+0
+1 analysis.UnivariateRealSolverUtils No:15
+7
+3 analysis.UnivariateRealSolverUtils No:16
+0
+49 analysis.UnivariateRealSolverUtils No:17
+1
+1 distribution.AbstractContinuousDistribution No:18
+5
+9 distribution.AbstractContinuousDistribution No:19
+5
+7 distribution.AbstractContinuousDistribution No:20
+5
+1 distribution.AbstractDistribution No:21
+10
+6 distribution.AbstractDistribution No:22
+10
+2 distribution.AbstractDistribution No:23
+7
+1 distribution.ContinuousDistributionAbstractTest No:24
+-
+1 distribution.NormalDistributionImpl No:25
+0
+15 distribution.NormalDistributionImpl No:26
+1
+26 distribution.NormalDistributionImpl No:27
+1
+1 distribution.NormalDistributionTest No:28
+-
+1 special.Erf No:29
+2
+3 special.Erf No:30
+4
+3 special.Erf No:31
+4
+1 special.Gamma No:32
+16
+38 special.Gamma No:33
+16
+13 special.Gamma No:34
+16

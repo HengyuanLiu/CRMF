@@ -1,0 +1,23 @@
+1 util.MathUtils No:1(faultline)
+1 stat.clustering.Cluster No:2
+0
+1 stat.clustering.EuclideanIntegerPoint No:3
+0
+16 stat.clustering.EuclideanIntegerPoint No:4
+1
+12 stat.clustering.EuclideanIntegerPoint No:5
+1
+1 stat.clustering.KMeansPlusPlusClusterer No:6
+0
+16 stat.clustering.KMeansPlusPlusClusterer No:7
+0
+16 stat.clustering.KMeansPlusPlusClusterer No:8
+0
+1 stat.clustering.KMeansPlusPlusClustererTest No:9
+-
+1 util.MathUtils No:10
+8
+168 util.MathUtils No:11
+2
+70 util.MathUtils No:12
+3

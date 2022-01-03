@@ -1,0 +1,73 @@
+1 text.translate.CharSequenceTranslator No:1(faultline)
+1 ArrayUtils No:2
+1
+1052 ArrayUtils No:3
+1
+832 ArrayUtils No:4
+1
+1 StringEscapeUtils No:5
+0
+5 StringEscapeUtils No:6
+0
+24 StringEscapeUtils No:7
+0
+1 StringEscapeUtilsTest No:8
+-
+1 StringUtils No:9
+10
+2264 StringUtils No:10
+1
+2539 StringUtils No:11
+1
+1 text.translate.AggregateTranslator No:12
+0
+1 text.translate.AggregateTranslator No:13
+0
+1 text.translate.AggregateTranslator No:14
+0
+1 text.translate.CharSequenceTranslator No:15
+0
+20 text.translate.CharSequenceTranslator No:16
+1
+23 text.translate.CharSequenceTranslator No:17
+0
+1 text.translate.CodePointTranslator No:18
+2
+2 text.translate.CodePointTranslator No:19
+2
+1 text.translate.EntityArrays No:20
+0
+1 text.translate.EntityArrays No:21
+0
+3 text.translate.EntityArrays No:22
+1
+1 text.translate.LookupTranslator No:23
+0
+10 text.translate.LookupTranslator No:24
+1
+2 text.translate.LookupTranslator No:25
+1
+1 text.translate.NumericEntityUnescaper No:26
+0
+126 text.translate.NumericEntityUnescaper No:27
+0
+24 text.translate.NumericEntityUnescaper No:28
+0
+1 text.translate.OctalUnescaper No:29
+0
+5 text.translate.OctalUnescaper No:30
+0
+42 text.translate.OctalUnescaper No:31
+1
+1 text.translate.UnicodeEscaper No:32
+1
+6 text.translate.UnicodeEscaper No:33
+1
+13 text.translate.UnicodeEscaper No:34
+1
+1 text.translate.UnicodeUnescaper No:35
+0
+72 text.translate.UnicodeUnescaper No:36
+1
+71 text.translate.UnicodeUnescaper No:37
+1

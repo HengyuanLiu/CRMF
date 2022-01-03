@@ -1,0 +1,53 @@
+1 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:1(faultline)
+(faultline)1 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:2
+1
+1 chart.util.ObjectUtilities No:3
+0
+35 chart.util.ObjectUtilities No:4
+2
+19 chart.util.ObjectUtilities No:5
+0
+1 data.KeyedObject No:6
+9
+10 data.KeyedObject No:7
+2
+7 data.KeyedObject No:8
+0
+1 data.KeyedObjects No:9
+8
+58 data.KeyedObjects No:10
+2
+46 data.KeyedObjects No:11
+0
+1 data.KeyedObjects2D No:12
+8
+68 data.KeyedObjects2D No:13
+2
+39 data.KeyedObjects2D No:14
+0
+1 data.Range No:15
+95
+85 data.Range No:16
+0
+82 data.Range No:17
+3
+1 data.general.AbstractDataset No:18
+0
+7 data.general.AbstractDataset No:19
+8
+4 data.general.AbstractDataset No:20
+0
+1 data.statistics.BoxAndWhiskerItem No:21
+1
+15 data.statistics.BoxAndWhiskerItem No:22
+1
+11 data.statistics.BoxAndWhiskerItem No:23
+2
+1 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:24
+3
+43 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:25
+0
+66 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:26
+0
+1 data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests No:27
+-

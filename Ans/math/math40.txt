@@ -1,0 +1,89 @@
+1 analysis.solvers.BracketingNthOrderBrentSolver No:1(faultline)
+1 analysis.QuinticFunction No:2
+-
+1 analysis.SinFunction No:3
+-
+1 analysis.XMinus5Function No:4
+-
+1 analysis.solvers.AbstractDifferentiableUnivariateRealSolver No:5
+10
+2 analysis.solvers.AbstractDifferentiableUnivariateRealSolver No:6
+11
+3 analysis.solvers.AbstractDifferentiableUnivariateRealSolver No:7
+11
+1 analysis.solvers.AllowedSolution No:8
+-
+1 analysis.solvers.BaseAbstractUnivariateRealSolver No:9
+12
+19 analysis.solvers.BaseAbstractUnivariateRealSolver No:10
+21
+2 analysis.solvers.BaseAbstractUnivariateRealSolver No:11
+10
+1 analysis.solvers.BaseSecantSolverAbstractTest No:12
+-
+1 analysis.solvers.BracketingNthOrderBrentSolver No:13
+0
+63 analysis.solvers.BracketingNthOrderBrentSolver No:14
+1
+120 analysis.solvers.BracketingNthOrderBrentSolver No:15
+7
+1 analysis.solvers.BracketingNthOrderBrentSolverTest No:16
+-
+1 analysis.solvers.NewtonSolver No:17
+11
+2 analysis.solvers.NewtonSolver No:18
+11
+10 analysis.solvers.NewtonSolver No:19
+11
+1 analysis.solvers.UnivariateRealSolverUtils No:20
+10
+65 analysis.solvers.UnivariateRealSolverUtils No:21
+10
+20 analysis.solvers.UnivariateRealSolverUtils No:22
+10
+1 exception.MathIllegalStateException No:23
+11
+2 exception.MathIllegalStateException No:24
+10
+1 exception.MaxCountExceededException No:25
+11
+1 exception.util.ArgUtils No:26
+10
+2 exception.util.ArgUtils No:27
+11
+3 exception.util.ArgUtils No:28
+15
+1 exception.util.ExceptionContext No:29
+10
+21 exception.util.ExceptionContext No:30
+11
+12 exception.util.ExceptionContext No:31
+10
+1 exception.util.LocalizedFormats No:32
+10
+1 util.FastMath No:33
+11
+5633 util.FastMath No:34
+14
+5711 util.FastMath No:35
+11
+1 util.FastMathLiteralArrays No:36
+-
+1 util.Incrementor No:37
+11
+6 util.Incrementor No:38
+10
+11 util.Incrementor No:39
+11
+1 util.MathUtils No:40
+14
+112 util.MathUtils No:41
+10
+64 util.MathUtils No:42
+11
+1 util.Precision No:43
+11
+104 util.Precision No:44
+11
+105 util.Precision No:45
+10

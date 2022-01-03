@@ -1,0 +1,119 @@
+1 geometry.euclidean.threed.SubLine No:1(faultline)
+(faultline)1 geometry.euclidean.twod.SubLine No:2
+1
+1 geometry.euclidean.oned.Interval No:3
+4
+2 geometry.euclidean.oned.Interval No:4
+5
+1 geometry.euclidean.oned.Interval No:5
+4
+1 geometry.euclidean.oned.IntervalsSet No:6
+2
+17 geometry.euclidean.oned.IntervalsSet No:7
+1
+19 geometry.euclidean.oned.IntervalsSet No:8
+1
+1 geometry.euclidean.oned.OrientedPoint No:9
+5
+3 geometry.euclidean.oned.OrientedPoint No:10
+4
+6 geometry.euclidean.oned.OrientedPoint No:11
+6
+1 geometry.euclidean.oned.SubOrientedPoint No:12
+5
+6 geometry.euclidean.oned.SubOrientedPoint No:13
+8
+7 geometry.euclidean.oned.SubOrientedPoint No:14
+3
+1 geometry.euclidean.oned.Vector1D No:15
+1
+14 geometry.euclidean.oned.Vector1D No:16
+3
+87 geometry.euclidean.oned.Vector1D No:17
+1
+1 geometry.euclidean.threed.Line No:18
+4
+38 geometry.euclidean.threed.Line No:19
+3
+37 geometry.euclidean.threed.Line No:20
+3
+1 geometry.euclidean.threed.Segment No:21
+-
+1 geometry.euclidean.threed.SubLine No:22
+2
+3 geometry.euclidean.threed.SubLine No:23
+1
+3 geometry.euclidean.threed.SubLine No:24
+3
+1 geometry.euclidean.threed.SubLineTest No:25
+-
+1 geometry.euclidean.threed.Vector3D No:26
+0
+86 geometry.euclidean.threed.Vector3D No:27
+6
+41 geometry.euclidean.threed.Vector3D No:28
+8
+1 geometry.euclidean.twod.Line No:29
+4
+427 geometry.euclidean.twod.Line No:30
+2
+437 geometry.euclidean.twod.Line No:31
+3
+1 geometry.euclidean.twod.Segment No:32
+3
+50 geometry.euclidean.twod.Segment No:33
+2
+57 geometry.euclidean.twod.Segment No:34
+2
+1 geometry.euclidean.twod.SubLine No:35
+1
+25 geometry.euclidean.twod.SubLine No:36
+4
+5 geometry.euclidean.twod.SubLine No:37
+2
+1 geometry.euclidean.twod.SubLineTest No:38
+-
+1 geometry.euclidean.twod.Vector2D No:39
+2
+132 geometry.euclidean.twod.Vector2D No:40
+2
+34 geometry.euclidean.twod.Vector2D No:41
+2
+1 geometry.partitioning.AbstractRegion No:42
+3
+98 geometry.partitioning.AbstractRegion No:43
+2
+86 geometry.partitioning.AbstractRegion No:44
+3
+1 geometry.partitioning.AbstractSubHyperplane No:45
+2
+5 geometry.partitioning.AbstractSubHyperplane No:46
+2
+1 geometry.partitioning.AbstractSubHyperplane No:47
+2
+1 geometry.partitioning.BSPTree No:48
+2
+125 geometry.partitioning.BSPTree No:49
+4
+100 geometry.partitioning.BSPTree No:50
+4
+1 geometry.partitioning.RegionFactory No:51
+0
+8 geometry.partitioning.RegionFactory No:52
+2
+22 geometry.partitioning.RegionFactory No:53
+4
+1 geometry.partitioning.Side No:54
+-
+1 util.FastMath No:55
+2
+349 util.FastMath No:56
+7
+6327 util.FastMath No:57
+126
+1 util.MathArrays No:58
+1
+819 util.MathArrays No:59
+8
+1046 util.MathArrays No:60
+4

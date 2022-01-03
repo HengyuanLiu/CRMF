@@ -1,0 +1,19 @@
+1 complex.ComplexFormat No:1(faultline)
+1 complex.Complex No:2
+6
+252 complex.Complex No:3
+0
+229 complex.Complex No:4
+2
+1 complex.ComplexFormat No:5
+0
+71 complex.ComplexFormat No:6
+0
+30 complex.ComplexFormat No:7
+0
+1 complex.ComplexFormatAbstractTest No:8
+-
+1 complex.ComplexFormatTest No:9
+-
+1 complex.FrenchComplexFormatTest No:10
+-

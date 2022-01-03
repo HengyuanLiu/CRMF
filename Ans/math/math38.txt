@@ -1,0 +1,83 @@
+1 optimization.direct.BOBYQAOptimizer No:1(faultline)
+1 exception.MathIllegalStateException No:2
+1
+2 exception.MathIllegalStateException No:3
+1
+1 exception.MaxCountExceededException No:4
+1
+1 exception.util.ArgUtils No:5
+0
+2 exception.util.ArgUtils No:6
+1
+3 exception.util.ArgUtils No:7
+5
+1 exception.util.ExceptionContext No:8
+0
+31 exception.util.ExceptionContext No:9
+2
+2 exception.util.ExceptionContext No:10
+169
+1 linear.AbstractRealMatrix No:11
+49
+238 linear.AbstractRealMatrix No:12
+2
+452 linear.AbstractRealMatrix No:13
+0
+1 linear.Array2DRowRealMatrix No:14
+39
+95 linear.Array2DRowRealMatrix No:15
+0
+79 linear.Array2DRowRealMatrix No:16
+29
+1 linear.ArrayRealVector No:17
+1
+62 linear.ArrayRealVector No:18
+2
+190 linear.ArrayRealVector No:19
+3
+1 linear.MatrixUtils No:20
+1
+76 linear.MatrixUtils No:21
+1
+180 linear.MatrixUtils No:22
+0
+1 linear.RealVectorFormat No:23
+0
+9 linear.RealVectorFormat No:24
+2
+3 linear.RealVectorFormat No:25
+2
+1 optimization.RealPointValuePair No:26
+0
+2 optimization.RealPointValuePair No:27
+0
+3 optimization.RealPointValuePair No:28
+0
+1 optimization.direct.BOBYQAOptimizer No:29
+-
+1 optimization.direct.BOBYQAOptimizerTest No:30
+-
+1 optimization.direct.BaseAbstractMultivariateOptimizer No:31
+7
+9 optimization.direct.BaseAbstractMultivariateOptimizer No:32
+8
+6 optimization.direct.BaseAbstractMultivariateOptimizer No:33
+8
+1 optimization.direct.BaseAbstractMultivariateSimpleBoundsOptimizer No:34
+0
+32 optimization.direct.BaseAbstractMultivariateSimpleBoundsOptimizer No:35
+3
+2 optimization.direct.BaseAbstractMultivariateSimpleBoundsOptimizer No:36
+0
+1 util.CompositeFormat No:37
+6
+44 util.CompositeFormat No:38
+6
+35 util.CompositeFormat No:39
+0
+1 util.Incrementor No:40
+1
+3 util.Incrementor No:41
+0
+11 util.Incrementor No:42
+1

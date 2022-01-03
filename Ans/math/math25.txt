@@ -1,0 +1,119 @@
+1 optimization.fitting.HarmonicFitter No:1(faultline)
+1 TestUtils No:2
+-
+1 analysis.function.HarmonicOscillator No:3
+3
+13 analysis.function.HarmonicOscillator No:4
+2
+18 analysis.function.HarmonicOscillator No:5
+1
+1 dfp.Dfp No:6
+0
+535 dfp.Dfp No:7
+1
+2171 dfp.Dfp No:8
+1
+1 dfp.DfpField No:9
+4
+82 dfp.DfpField No:10
+1
+28 dfp.DfpField No:11
+5
+1 dfp.DfpMath No:12
+0
+313 dfp.DfpMath No:13
+0
+276 dfp.DfpMath No:14
+1
+1 exception.util.ArgUtils No:15
+0
+2 exception.util.ArgUtils No:16
+1
+3 exception.util.ArgUtils No:17
+4
+1 exception.util.ExceptionContext No:18
+0
+9 exception.util.ExceptionContext No:19
+4
+23 exception.util.ExceptionContext No:20
+0
+1 optimization.PointVectorValuePair No:21
+0
+2 optimization.PointVectorValuePair No:22
+0
+4 optimization.PointVectorValuePair No:23
+0
+1 optimization.direct.BaseAbstractMultivariateVectorOptimizer No:24
+4
+8 optimization.direct.BaseAbstractMultivariateVectorOptimizer No:25
+0
+13 optimization.direct.BaseAbstractMultivariateVectorOptimizer No:26
+9
+1 optimization.fitting.CurveFitter No:27
+3
+4 optimization.fitting.CurveFitter No:28
+1
+1 optimization.fitting.CurveFitter No:29
+3
+1 optimization.fitting.HarmonicFitter No:30
+0
+40 optimization.fitting.HarmonicFitter No:31
+0
+224 optimization.fitting.HarmonicFitter No:32
+0
+1 optimization.fitting.HarmonicFitterTest No:33
+-
+1 optimization.fitting.WeightedObservedPoint No:34
+-
+1 optimization.general.AbstractLeastSquaresOptimizer No:35
+0
+49 optimization.general.AbstractLeastSquaresOptimizer No:36
+4
+43 optimization.general.AbstractLeastSquaresOptimizer No:37
+7
+1 optimization.general.LevenbergMarquardtOptimizer No:38
+5
+322 optimization.general.LevenbergMarquardtOptimizer No:39
+0
+8 optimization.general.LevenbergMarquardtOptimizer No:40
+0
+1 random.BitsStreamGenerator No:41
+0
+32 random.BitsStreamGenerator No:42
+10
+37 random.BitsStreamGenerator No:43
+41
+1 random.MersenneTwister No:44
+1
+84 random.MersenneTwister No:45
+1
+169 random.MersenneTwister No:46
+1
+1 util.FastMath No:47
+0
+4675 util.FastMath No:48
+10
+2717 util.FastMath No:49
+7
+1 util.FastMathLiteralArrays No:50
+-
+1 util.FastMathTest No:51
+-
+1 util.Incrementor No:52
+0
+2 util.Incrementor No:53
+3
+5 util.Incrementor No:54
+1
+1 util.MathUtils No:55
+3
+112 util.MathUtils No:56
+0
+75 util.MathUtils No:57
+0
+1 util.Pair No:58
+0
+13 util.Pair No:59
+1
+8 util.Pair No:60
+0

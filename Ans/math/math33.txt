@@ -1,0 +1,155 @@
+1 optimization.linear.SimplexTableau No:1(faultline)
+1 TestUtils No:2
+-
+1 dfp.Dfp No:3
+6
+1411 dfp.Dfp No:4
+6
+2088 dfp.Dfp No:5
+6
+1 dfp.DfpField No:6
+6
+94 dfp.DfpField No:7
+6
+24 dfp.DfpField No:8
+6
+1 dfp.DfpMath No:9
+5
+304 dfp.DfpMath No:10
+5
+139 dfp.DfpMath No:11
+5
+1 exception.util.ArgUtils No:12
+180
+2 exception.util.ArgUtils No:13
+191
+3 exception.util.ArgUtils No:14
+191
+1 exception.util.ExceptionContext No:15
+190
+41 exception.util.ExceptionContext No:16
+2
+7 exception.util.ExceptionContext No:17
+190
+1 linear.AbstractRealMatrix No:18
+49
+468 linear.AbstractRealMatrix No:19
+2
+616 linear.AbstractRealMatrix No:20
+49
+1 linear.Array2DRowRealMatrix No:21
+40
+195 linear.Array2DRowRealMatrix No:22
+2
+181 linear.Array2DRowRealMatrix No:23
+40
+1 linear.ArrayRealVector No:24
+28
+29 linear.ArrayRealVector No:25
+29
+392 linear.ArrayRealVector No:26
+29
+1 linear.MatrixUtils No:27
+45
+197 linear.MatrixUtils No:28
+45
+174 linear.MatrixUtils No:29
+2
+1 linear.RealVector No:30
+7
+84 linear.RealVector No:31
+7
+52 linear.RealVector No:32
+7
+1 linear.RealVectorFormat No:33
+4
+6 linear.RealVectorFormat No:34
+2
+13 linear.RealVectorFormat No:35
+4
+1 optimization.PointValuePair No:36
+10
+2 optimization.PointValuePair No:37
+11
+1 optimization.linear.AbstractLinearOptimizer No:38
+1
+5 optimization.linear.AbstractLinearOptimizer No:39
+1
+2 optimization.linear.AbstractLinearOptimizer No:40
+1
+1 optimization.linear.LinearConstraint No:41
+0
+22 optimization.linear.LinearConstraint No:42
+0
+17 optimization.linear.LinearConstraint No:43
+0
+1 optimization.linear.LinearObjectiveFunction No:44
+0
+9 optimization.linear.LinearObjectiveFunction No:45
+0
+5 optimization.linear.LinearObjectiveFunction No:46
+0
+1 optimization.linear.Relationship No:47
+1
+2 optimization.linear.Relationship No:48
+1
+1 optimization.linear.SimplexSolver No:49
+1
+60 optimization.linear.SimplexSolver No:50
+1
+3 optimization.linear.SimplexSolver No:51
+1
+1 optimization.linear.SimplexSolverTest No:52
+-
+1 optimization.linear.SimplexTableau No:53
+0
+152 optimization.linear.SimplexTableau No:54
+0
+232 optimization.linear.SimplexTableau No:55
+0
+1 random.BitsStreamGenerator No:56
+45
+34 random.BitsStreamGenerator No:57
+45
+20 random.BitsStreamGenerator No:58
+45
+1 random.MersenneTwister No:59
+5
+43 random.MersenneTwister No:60
+5
+147 random.MersenneTwister No:61
+5
+1 util.CompositeFormat No:62
+8
+16 util.CompositeFormat No:63
+33
+57 util.CompositeFormat No:64
+33
+1 util.FastMath No:65
+245
+1110 util.FastMath No:66
+245
+6310 util.FastMath No:67
+245
+1 util.FastMathLiteralArrays No:68
+-
+1 util.FastMathTest No:69
+-
+1 util.MathUtils No:70
+143
+112 util.MathUtils No:71
+143
+42 util.MathUtils No:72
+143
+1 util.Pair No:73
+2
+6 util.Pair No:74
+2
+4 util.Pair No:75
+2
+1 util.Precision No:76
+137
+15 util.Precision No:77
+137
+128 util.Precision No:78
+137

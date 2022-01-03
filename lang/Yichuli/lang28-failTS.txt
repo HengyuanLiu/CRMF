@@ -1,0 +1,4 @@
+
+text.translate.NumericEntityUnescaperTest
+text.translate.CharSequenceTranslator.translate=2
+text.translate.NumericEntityUnescaper.translate=1

@@ -1,0 +1,15 @@
+1 text.translate.NumericEntityUnescaper No:1(faultline)
+1 text.translate.CharSequenceTranslator No:2
+1
+13 text.translate.CharSequenceTranslator No:3
+1
+5 text.translate.CharSequenceTranslator No:4
+1
+1 text.translate.NumericEntityUnescaper No:5
+0
+17 text.translate.NumericEntityUnescaper No:6
+1
+36 text.translate.NumericEntityUnescaper No:7
+0
+1 text.translate.NumericEntityUnescaperTest No:8
+-

@@ -1,0 +1,201 @@
+1 util.ContinuedFraction No:1(faultline)
+1 TestUtils No:2
+-
+1 analysis.solvers.BaseAbstractUnivariateSolver No:3
+3
+22 analysis.solvers.BaseAbstractUnivariateSolver No:4
+1
+12 analysis.solvers.BaseAbstractUnivariateSolver No:5
+28
+1 analysis.solvers.BrentSolver No:6
+2
+104 analysis.solvers.BrentSolver No:7
+1
+130 analysis.solvers.BrentSolver No:8
+2
+1 analysis.solvers.UnivariateSolverUtils No:9
+0
+129 analysis.solvers.UnivariateSolverUtils No:10
+6
+103 analysis.solvers.UnivariateSolverUtils No:11
+0
+1 dfp.Dfp No:12
+0
+12 dfp.Dfp No:13
+4
+1821 dfp.Dfp No:14
+0
+1 dfp.DfpField No:15
+4
+80 dfp.DfpField No:16
+0
+30 dfp.DfpField No:17
+0
+1 dfp.DfpMath No:18
+0
+85 dfp.DfpMath No:19
+1
+63 dfp.DfpMath No:20
+1
+1 distribution.AbstractIntegerDistribution No:21
+12
+78 distribution.AbstractIntegerDistribution No:22
+0
+30 distribution.AbstractIntegerDistribution No:23
+1
+1 distribution.AbstractRealDistribution No:24
+9
+44 distribution.AbstractRealDistribution No:25
+0
+76 distribution.AbstractRealDistribution No:26
+0
+1 distribution.BinomialDistribution No:27
+11
+30 distribution.BinomialDistribution No:28
+11
+12 distribution.BinomialDistribution No:29
+0
+1 distribution.BinomialDistributionTest No:30
+-
+1 distribution.ChiSquaredDistribution No:31
+15
+3 distribution.ChiSquaredDistribution No:32
+3
+12 distribution.ChiSquaredDistribution No:33
+12
+1 distribution.FDistribution No:34
+0
+105 distribution.FDistribution No:35
+0
+57 distribution.FDistribution No:36
+0
+1 distribution.FDistributionTest No:37
+-
+1 distribution.GammaDistribution No:38
+1
+23 distribution.GammaDistribution No:39
+2
+115 distribution.GammaDistribution No:40
+2
+1 distribution.IntegerDistributionAbstractTest No:41
+-
+1 distribution.RealDistributionAbstractTest No:42
+-
+1 distribution.SaddlePointExpansion No:43
+0
+228 distribution.SaddlePointExpansion No:44
+1
+219 distribution.SaddlePointExpansion No:45
+1
+1 exception.MathIllegalStateException No:46
+0
+2 exception.MathIllegalStateException No:47
+0
+1 exception.util.ArgUtils No:48
+0
+2 exception.util.ArgUtils No:49
+1
+3 exception.util.ArgUtils No:50
+4
+1 exception.util.ExceptionContext No:51
+0
+33 exception.util.ExceptionContext No:52
+1
+35 exception.util.ExceptionContext No:53
+0
+1 exception.util.LocalizedFormats No:54
+0
+1 random.AbstractWell No:55
+39
+35 random.AbstractWell No:56
+5
+55 random.AbstractWell No:57
+8
+1 random.BitsStreamGenerator No:58
+0
+51 random.BitsStreamGenerator No:59
+15
+12 random.BitsStreamGenerator No:60
+10
+1 random.MersenneTwister No:61
+1
+70 random.MersenneTwister No:62
+2
+11 random.MersenneTwister No:63
+0
+1 random.RandomDataImpl No:64
+0
+159 random.RandomDataImpl No:65
+1
+594 random.RandomDataImpl No:66
+11
+1 random.Well19937c No:67
+2
+7 random.Well19937c No:68
+1
+3 random.Well19937c No:69
+0
+1 special.Beta No:70
+21
+85 special.Beta No:71
+20
+149 special.Beta No:72
+21
+1 special.Gamma No:73
+35
+187 special.Gamma No:74
+20
+358 special.Gamma No:75
+1
+1 stat.inference.ChiSquareTest No:76
+28
+115 stat.inference.ChiSquareTest No:77
+2
+127 stat.inference.ChiSquareTest No:78
+2
+1 util.ArithmeticUtils No:79
+8
+1 util.ArithmeticUtils No:80
+8
+593 util.ArithmeticUtils No:81
+1
+1 util.ContinuedFraction No:82
+0
+25 util.ContinuedFraction No:83
+30
+78 util.ContinuedFraction No:84
+0
+1 util.FastMath No:85
+0
+3947 util.FastMath No:86
+0
+4734 util.FastMath No:87
+14
+1 util.FastMathLiteralArrays No:88
+-
+1 util.FastMathTest No:89
+-
+1 util.Incrementor No:90
+1
+12 util.Incrementor No:91
+29
+5 util.Incrementor No:92
+1
+1 util.MathUtils No:93
+4
+62 util.MathUtils No:94
+1
+68 util.MathUtils No:95
+0
+1 util.Precision No:96
+5
+12 util.Precision No:97
+6
+32 util.Precision No:98
+0
+1 util.ResizableDoubleArray No:99
+10
+150 util.ResizableDoubleArray No:100
+1
+145 util.ResizableDoubleArray No:101
+2

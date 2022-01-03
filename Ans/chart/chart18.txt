@@ -1,0 +1,37 @@
+1 data.DefaultKeyedValues No:1(faultline)
+(faultline)1 data.DefaultKeyedValues2D No:2
+0
+1 chart.util.ObjectUtilities No:3
+0
+6 chart.util.ObjectUtilities No:4
+1
+32 chart.util.ObjectUtilities No:5
+0
+1 data.DefaultKeyedValues No:6
+53
+110 data.DefaultKeyedValues No:7
+1
+64 data.DefaultKeyedValues No:8
+1
+1 data.DefaultKeyedValues2D No:9
+45
+66 data.DefaultKeyedValues2D No:10
+1
+116 data.DefaultKeyedValues2D No:11
+5
+1 data.category.DefaultCategoryDataset No:12
+40
+43 data.category.DefaultCategoryDataset No:13
+2
+47 data.category.DefaultCategoryDataset No:14
+1
+1 data.category.junit.DefaultCategoryDatasetTests No:15
+-
+1 data.general.AbstractDataset No:16
+0
+19 data.general.AbstractDataset No:17
+42
+19 data.general.AbstractDataset No:18
+42
+1 data.junit.DefaultKeyedValues2DTests No:19
+-

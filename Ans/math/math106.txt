@@ -1,0 +1,27 @@
+1 fraction.ProperFractionFormat No:1(faultline)
+1 fraction.Fraction No:2
+1
+150 fraction.Fraction No:3
+1
+209 fraction.Fraction No:4
+0
+1 fraction.FractionFormat No:5
+0
+17 fraction.FractionFormat No:6
+0
+32 fraction.FractionFormat No:7
+0
+1 fraction.FractionFormatTest No:8
+-
+1 fraction.ProperFractionFormat No:9
+0
+6 fraction.ProperFractionFormat No:10
+0
+22 fraction.ProperFractionFormat No:11
+0
+1 util.MathUtils No:12
+2
+114 util.MathUtils No:13
+3
+316 util.MathUtils No:14
+1

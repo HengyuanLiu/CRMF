@@ -1,0 +1,147 @@
+1 chart.renderer.category.StatisticalBarRenderer No:1(faultline)
+(faultline)1 chart.renderer.category.StatisticalBarRenderer No:2
+0
+1 chart.labels.ItemLabelAnchor No:3
+60
+10 chart.labels.ItemLabelAnchor No:4
+4
+1 chart.labels.ItemLabelAnchor No:5
+60
+1 chart.labels.ItemLabelPosition No:6
+0
+11 chart.labels.ItemLabelPosition No:7
+59
+9 chart.labels.ItemLabelPosition No:8
+0
+1 chart.labels.StandardCategorySeriesLabelGenerator No:9
+0
+9 chart.labels.StandardCategorySeriesLabelGenerator No:10
+3
+4 chart.labels.StandardCategorySeriesLabelGenerator No:11
+8
+1 chart.renderer.AbstractRenderer No:12
+0
+716 chart.renderer.AbstractRenderer No:13
+1
+139 chart.renderer.AbstractRenderer No:14
+2
+1 chart.renderer.category.AbstractCategoryItemRenderer No:15
+12
+2 chart.renderer.category.AbstractCategoryItemRenderer No:16
+12
+272 chart.renderer.category.AbstractCategoryItemRenderer No:17
+0
+1 chart.renderer.category.BarRenderer No:18
+0
+253 chart.renderer.category.BarRenderer No:19
+0
+352 chart.renderer.category.BarRenderer No:20
+0
+1 chart.renderer.category.StatisticalBarRenderer No:21
+0
+2 chart.renderer.category.StatisticalBarRenderer No:22
+1
+252 chart.renderer.category.StatisticalBarRenderer No:23
+1
+1 chart.renderer.category.junit.StatisticalBarRendererTests No:24
+-
+1 chart.text.TextAnchor No:25
+79
+46 chart.text.TextAnchor No:26
+0
+39 chart.text.TextAnchor No:27
+0
+1 chart.util.AbstractObjectList No:28
+69
+60 chart.util.AbstractObjectList No:29
+12
+12 chart.util.AbstractObjectList No:30
+0
+1 chart.util.BooleanList No:31
+10
+2 chart.util.BooleanList No:32
+58
+1 chart.util.GradientPaintTransformType No:33
+26
+9 chart.util.GradientPaintTransformType No:34
+25
+16 chart.util.GradientPaintTransformType No:35
+0
+1 chart.util.ObjectUtilities No:36
+0
+37 chart.util.ObjectUtilities No:37
+0
+22 chart.util.ObjectUtilities No:38
+0
+1 chart.util.PaintList No:39
+6
+7 chart.util.PaintList No:40
+0
+19 chart.util.PaintList No:41
+2
+1 chart.util.PaintUtilities No:42
+36
+6 chart.util.PaintUtilities No:43
+117
+9 chart.util.PaintUtilities No:44
+9
+1 chart.util.SerialUtilities No:45
+0
+155 chart.util.SerialUtilities No:46
+3
+114 chart.util.SerialUtilities No:47
+32
+1 chart.util.ShapeList No:48
+2
+5 chart.util.ShapeList No:49
+0
+2 chart.util.ShapeList No:50
+0
+1 chart.util.ShapeUtilities No:51
+39
+50 chart.util.ShapeUtilities No:52
+0
+59 chart.util.ShapeUtilities No:53
+0
+1 chart.util.StandardGradientPaintTransformer No:54
+1
+17 chart.util.StandardGradientPaintTransformer No:55
+2
+5 chart.util.StandardGradientPaintTransformer No:56
+0
+1 chart.util.StrokeList No:57
+4
+14 chart.util.StrokeList No:58
+0
+6 chart.util.StrokeList No:59
+59
+1 data.KeyedObject No:60
+9
+7 data.KeyedObject No:61
+0
+2 data.KeyedObject No:62
+5
+1 data.KeyedObjects No:63
+8
+26 data.KeyedObjects No:64
+4
+26 data.KeyedObjects No:65
+5
+1 data.KeyedObjects2D No:66
+7
+26 data.KeyedObjects2D No:67
+0
+48 data.KeyedObjects2D No:68
+2
+1 data.general.AbstractDataset No:69
+0
+5 data.general.AbstractDataset No:70
+10
+16 data.general.AbstractDataset No:71
+42
+1 data.statistics.DefaultStatisticalCategoryDataset No:72
+3
+72 data.statistics.DefaultStatisticalCategoryDataset No:73
+2
+13 data.statistics.DefaultStatisticalCategoryDataset No:74
+1

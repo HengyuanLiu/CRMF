@@ -1,0 +1,111 @@
+1 distribution.HypergeometricDistribution No:1(faultline)
+1 TestUtils No:2
+-
+1 distribution.AbstractIntegerDistribution No:3
+4
+22 distribution.AbstractIntegerDistribution No:4
+3
+63 distribution.AbstractIntegerDistribution No:5
+2
+1 distribution.ChiSquaredDistribution No:6
+9
+10 distribution.ChiSquaredDistribution No:7
+4
+6 distribution.ChiSquaredDistribution No:8
+4
+1 distribution.GammaDistribution No:9
+1
+47 distribution.GammaDistribution No:10
+4
+158 distribution.GammaDistribution No:11
+2
+1 distribution.HypergeometricDistribution No:12
+2
+11 distribution.HypergeometricDistribution No:13
+1
+59 distribution.HypergeometricDistribution No:14
+2
+1 distribution.HypergeometricDistributionTest No:15
+-
+1 distribution.IntegerDistributionAbstractTest No:16
+-
+1 distribution.SaddlePointExpansion No:17
+2
+117 distribution.SaddlePointExpansion No:18
+7
+212 distribution.SaddlePointExpansion No:19
+4
+1 exception.util.ArgUtils No:20
+3
+2 exception.util.ArgUtils No:21
+3
+3 exception.util.ArgUtils No:22
+5
+1 exception.util.ExceptionContext No:23
+3
+7 exception.util.ExceptionContext No:24
+3
+4 exception.util.ExceptionContext No:25
+5
+1 random.AbstractWell No:26
+52
+72 random.AbstractWell No:27
+48
+15 random.AbstractWell No:28
+65
+1 random.BitsStreamGenerator No:29
+2
+113 random.BitsStreamGenerator No:30
+3
+74 random.BitsStreamGenerator No:31
+3
+1 random.RandomDataGenerator No:32
+3
+16 random.RandomDataGenerator No:33
+18
+216 random.RandomDataGenerator No:34
+1
+1 random.RandomDataImpl No:35
+5
+4 random.RandomDataImpl No:36
+4
+4 random.RandomDataImpl No:37
+3
+1 random.Well19937c No:38
+4
+2 random.Well19937c No:39
+3
+5 random.Well19937c No:40
+3
+1 special.Gamma No:41
+4
+421 special.Gamma No:42
+6
+292 special.Gamma No:43
+4
+1 stat.inference.ChiSquareTest No:44
+24
+75 stat.inference.ChiSquareTest No:45
+24
+156 stat.inference.ChiSquareTest No:46
+1
+1 util.FastMath No:47
+1
+3977 util.FastMath No:48
+2
+2922 util.FastMath No:49
+3
+1 util.FastMathLiteralArrays No:50
+-
+1 util.MathArrays No:51
+0
+1167 util.MathArrays No:52
+5
+1346 util.MathArrays No:53
+0
+1 util.Precision No:54
+12
+43 util.Precision No:55
+2
+51 util.Precision No:56
+26

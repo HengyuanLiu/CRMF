@@ -1,0 +1,29 @@
+1 optimization.general.LevenbergMarquardtOptimizer No:1(faultline)
+1 MathException No:2
+0
+5 MathException No:3
+7
+6 MathException No:4
+0
+1 exception.util.LocalizedFormats No:5
+4
+1 optimization.VectorialPointValuePair No:6
+0
+5 optimization.VectorialPointValuePair No:7
+0
+1 optimization.VectorialPointValuePair No:8
+0
+1 optimization.general.AbstractLeastSquaresOptimizer No:9
+2
+106 optimization.general.AbstractLeastSquaresOptimizer No:10
+9
+56 optimization.general.AbstractLeastSquaresOptimizer No:11
+2
+1 optimization.general.LevenbergMarquardtOptimizer No:12
+0
+825 optimization.general.LevenbergMarquardtOptimizer No:13
+6
+851 optimization.general.LevenbergMarquardtOptimizer No:14
+6
+1 optimization.general.MinpackTest No:15
+-

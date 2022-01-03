@@ -1,0 +1,69 @@
+1 data.time.TimeSeries No:1(faultline)
+1 chart.util.ObjectUtilities No:2
+2
+58 chart.util.ObjectUtilities No:3
+2
+45 chart.util.ObjectUtilities No:4
+3
+1 data.general.Series No:5
+4
+30 data.general.Series No:6
+10
+48 data.general.Series No:7
+72
+1 data.time.Day No:8
+18
+41 data.time.Day No:9
+4
+37 data.time.Day No:10
+3
+1 data.time.FixedMillisecond No:11
+3
+13 data.time.FixedMillisecond No:12
+2
+30 data.time.FixedMillisecond No:13
+6
+1 data.time.Month No:14
+5
+60 data.time.Month No:15
+3
+7 data.time.Month No:16
+2
+1 data.time.RegularTimePeriod No:17
+2
+20 data.time.RegularTimePeriod No:18
+3
+9 data.time.RegularTimePeriod No:19
+5
+1 data.time.SerialDate No:20
+3
+5 data.time.SerialDate No:21
+4
+199 data.time.SerialDate No:22
+2
+1 data.time.SpreadsheetDate No:23
+22
+79 data.time.SpreadsheetDate No:24
+4
+212 data.time.SpreadsheetDate No:25
+2
+1 data.time.TimeSeries No:26
+2
+182 data.time.TimeSeries No:27
+2
+287 data.time.TimeSeries No:28
+3
+1 data.time.TimeSeriesDataItem No:29
+2
+17 data.time.TimeSeriesDataItem No:30
+3
+1 data.time.TimeSeriesDataItem No:31
+4
+1 data.time.Year No:32
+15
+14 data.time.Year No:33
+3
+3 data.time.Year No:34
+4
+1 data.time.junit.TimeSeriesTests No:35
+-

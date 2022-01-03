@@ -1,0 +1,4 @@
+
+text.translate.LookupTranslatorTest
+text.translate.LookupTranslator.translate=2
+text.translate.LookupTranslatorTest.testBasicLookup=1

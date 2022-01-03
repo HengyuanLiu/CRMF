@@ -1,0 +1,3 @@
+chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests
+chart.imagemap.StandardToolTipTagFragmentGenerator.generateToolTipFragment=2
+chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests.suite=1

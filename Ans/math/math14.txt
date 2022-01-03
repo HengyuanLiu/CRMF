@@ -1,0 +1,253 @@
+1 optim.nonlinear.vector.jacobian.AbstractLeastSquaresOptimizer No:1(faultline)
+1 TestUtils No:2
+-
+1 analysis.polynomials.PolynomialFunction No:3
+0
+206 analysis.polynomials.PolynomialFunction No:4
+2
+218 analysis.polynomials.PolynomialFunction No:5
+0
+1 distribution.AbstractRealDistribution No:6
+11
+87 distribution.AbstractRealDistribution No:7
+0
+28 distribution.AbstractRealDistribution No:8
+0
+1 distribution.UniformRealDistribution No:9
+1
+52 distribution.UniformRealDistribution No:10
+1
+16 distribution.UniformRealDistribution No:11
+1
+1 exception.MathIllegalStateException No:12
+0
+2 exception.MathIllegalStateException No:13
+0
+1 exception.util.ArgUtils No:14
+0
+2 exception.util.ArgUtils No:15
+1
+3 exception.util.ArgUtils No:16
+3
+1 exception.util.ExceptionContext No:17
+0
+39 exception.util.ExceptionContext No:18
+1
+43 exception.util.ExceptionContext No:19
+1
+1 fitting.CurveFitter No:20
+2
+7 fitting.CurveFitter No:21
+4
+4 fitting.CurveFitter No:22
+1
+1 fitting.PolynomialFitter No:23
+-
+1 fitting.PolynomialFitterTest No:24
+-
+1 fitting.WeightedObservedPoint No:25
+-
+1 linear.AbstractRealMatrix No:26
+5
+106 linear.AbstractRealMatrix No:27
+2
+302 linear.AbstractRealMatrix No:28
+2
+1 linear.Array2DRowRealMatrix No:29
+65
+196 linear.Array2DRowRealMatrix No:30
+0
+150 linear.Array2DRowRealMatrix No:31
+0
+1 linear.ArrayRealVector No:32
+1
+118 linear.ArrayRealVector No:33
+3
+11 linear.ArrayRealVector No:34
+1
+1 linear.BlockRealMatrix No:35
+20
+2230 linear.BlockRealMatrix No:36
+1
+746 linear.BlockRealMatrix No:37
+1
+1 linear.DefaultRealMatrixPreservingVisitor No:38
+-
+1 linear.EigenDecomposition No:39
+2
+1190 linear.EigenDecomposition No:40
+0
+902 linear.EigenDecomposition No:41
+1
+1 linear.LUDecomposition No:42
+0
+25 linear.LUDecomposition No:43
+0
+88 linear.LUDecomposition No:44
+0
+1 linear.MatrixUtils No:45
+1
+117 linear.MatrixUtils No:46
+0
+51 linear.MatrixUtils No:47
+0
+1 linear.RealMatrixFormat No:48
+1
+9 linear.RealMatrixFormat No:49
+0
+34 linear.RealMatrixFormat No:50
+0
+1 linear.RealVectorFormat No:51
+0
+15 linear.RealVectorFormat No:52
+2
+2 linear.RealVectorFormat No:53
+0
+1 linear.TriDiagonalTransformer No:54
+24
+281 linear.TriDiagonalTransformer No:55
+25
+196 linear.TriDiagonalTransformer No:56
+7
+1 optim.AbstractConvergenceChecker No:57
+-
+1 optim.BaseMultivariateOptimizer No:58
+18
+9 optim.BaseMultivariateOptimizer No:59
+2
+5 optim.BaseMultivariateOptimizer No:60
+2
+1 optim.BaseOptimizer No:61
+10
+10 optim.BaseOptimizer No:62
+0
+2 optim.BaseOptimizer No:63
+21
+1 optim.InitialGuess No:64
+-
+1 optim.MaxEval No:65
+0
+2 optim.MaxEval No:66
+0
+3 optim.MaxEval No:67
+20
+1 optim.PointVectorValuePair No:68
+0
+4 optim.PointVectorValuePair No:69
+0
+2 optim.PointVectorValuePair No:70
+1
+1 optim.SimpleVectorValueChecker No:71
+1
+8 optim.SimpleVectorValueChecker No:72
+1
+27 optim.SimpleVectorValueChecker No:73
+3
+1 optim.nonlinear.vector.JacobianMultivariateVectorOptimizer No:74
+9
+2 optim.nonlinear.vector.JacobianMultivariateVectorOptimizer No:75
+9
+3 optim.nonlinear.vector.JacobianMultivariateVectorOptimizer No:76
+0
+1 optim.nonlinear.vector.ModelFunction No:77
+-
+1 optim.nonlinear.vector.ModelFunctionJacobian No:78
+-
+1 optim.nonlinear.vector.MultivariateVectorOptimizer No:79
+6
+5 optim.nonlinear.vector.MultivariateVectorOptimizer No:80
+0
+8 optim.nonlinear.vector.MultivariateVectorOptimizer No:81
+9
+1 optim.nonlinear.vector.Target No:82
+-
+1 optim.nonlinear.vector.Weight No:83
+0
+3 optim.nonlinear.vector.Weight No:84
+1
+6 optim.nonlinear.vector.Weight No:85
+0
+1 optim.nonlinear.vector.jacobian.AbstractLeastSquaresOptimizer No:86
+4
+23 optim.nonlinear.vector.jacobian.AbstractLeastSquaresOptimizer No:87
+9
+11 optim.nonlinear.vector.jacobian.AbstractLeastSquaresOptimizer No:88
+2
+1 optim.nonlinear.vector.jacobian.GaussNewtonOptimizer No:89
+0
+41 optim.nonlinear.vector.jacobian.GaussNewtonOptimizer No:90
+3
+41 optim.nonlinear.vector.jacobian.GaussNewtonOptimizer No:91
+3
+1 optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer No:92
+5
+368 optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer No:93
+3
+846 optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer No:94
+1
+1 random.AbstractWell No:95
+48
+98 random.AbstractWell No:96
+32
+8 random.AbstractWell No:97
+4
+1 random.BitsStreamGenerator No:98
+0
+11 random.BitsStreamGenerator No:99
+1
+53 random.BitsStreamGenerator No:100
+19
+1 random.RandomDataGenerator No:101
+8
+133 random.RandomDataGenerator No:102
+1
+30 random.RandomDataGenerator No:103
+12
+1 random.RandomDataImpl No:104
+12
+4 random.RandomDataImpl No:105
+0
+2 random.RandomDataImpl No:106
+0
+1 random.Well19937c No:107
+4
+2 random.Well19937c No:108
+5
+6 random.Well19937c No:109
+3
+1 util.CompositeFormat No:110
+9
+28 util.CompositeFormat No:111
+7
+6 util.CompositeFormat No:112
+7
+1 util.FastMath No:113
+1
+715 util.FastMath No:114
+1
+234 util.FastMath No:115
+1
+1 util.Incrementor No:116
+0
+1 util.Incrementor No:117
+0
+14 util.Incrementor No:118
+23
+1 util.MathUtils No:119
+6
+116 util.MathUtils No:120
+1
+46 util.MathUtils No:121
+1
+1 util.Pair No:122
+0
+16 util.Pair No:123
+1
+11 util.Pair No:124
+1
+1 util.Precision No:125
+7
+117 util.Precision No:126
+0
+122 util.Precision No:127
+1

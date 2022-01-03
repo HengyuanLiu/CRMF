@@ -1,0 +1,177 @@
+1 internal.matchers.Equality No:1(faultline)
+1 MockitoAnnotations No:2
+3
+2 MockitoAnnotations No:3
+1
+3 MockitoAnnotations No:4
+210
+1 StateMaster No:5
+-
+1 configuration.DefaultMockitoConfiguration No:6
+-
+1 configuration.MockitoConfiguration No:7
+-
+1 internal.configuration.ClassPathLoader No:8
+0
+9 internal.configuration.ClassPathLoader No:9
+1
+12 internal.configuration.ClassPathLoader No:10
+1
+1 internal.configuration.ConfigurationAccess No:11
+-
+1 internal.configuration.DefaultAnnotationEngine No:12
+81
+14 internal.configuration.DefaultAnnotationEngine No:13
+0
+5 internal.configuration.DefaultAnnotationEngine No:14
+28
+1 internal.configuration.DefaultInjectionEngine No:15
+15
+1 internal.configuration.GlobalConfiguration No:16
+237
+2 internal.configuration.GlobalConfiguration No:17
+237
+3 internal.configuration.GlobalConfiguration No:18
+1
+1 internal.configuration.InjectingAnnotationEngine No:19
+9
+2 internal.configuration.InjectingAnnotationEngine No:20
+15
+13 internal.configuration.InjectingAnnotationEngine No:21
+212
+1 internal.configuration.SpyAnnotationEngine No:22
+5
+8 internal.configuration.SpyAnnotationEngine No:23
+1
+12 internal.configuration.SpyAnnotationEngine No:24
+2
+1 internal.configuration.injection.MockInjection No:25
+17
+8 internal.configuration.injection.MockInjection No:26
+2
+2 internal.configuration.injection.MockInjection No:27
+15
+1 internal.configuration.injection.MockInjectionStrategy No:28
+212
+3 internal.configuration.injection.MockInjectionStrategy No:29
+16
+5 internal.configuration.injection.MockInjectionStrategy No:30
+16
+1 internal.configuration.injection.scanner.InjectMocksScanner No:31
+15
+7 internal.configuration.injection.scanner.InjectMocksScanner No:32
+1
+6 internal.configuration.injection.scanner.InjectMocksScanner No:33
+16
+1 internal.configuration.injection.scanner.MockScanner No:34
+13
+15 internal.configuration.injection.scanner.MockScanner No:35
+1
+11 internal.configuration.injection.scanner.MockScanner No:36
+2
+1 internal.matchers.Equality No:37
+1
+14 internal.matchers.Equality No:38
+61
+25 internal.matchers.Equality No:39
+2
+1 internal.progress.ArgumentMatcherStorageImpl No:40
+56
+34 internal.progress.ArgumentMatcherStorageImpl No:41
+3
+27 internal.progress.ArgumentMatcherStorageImpl No:42
+1
+1 internal.progress.MockingProgressImpl No:43
+73
+14 internal.progress.MockingProgressImpl No:44
+2
+9 internal.progress.MockingProgressImpl No:45
+92
+1 internal.progress.ThreadSafeMockingProgress No:46
+235
+11 internal.progress.ThreadSafeMockingProgress No:47
+0
+2 internal.progress.ThreadSafeMockingProgress No:48
+235
+1 internal.util.Checks No:49
+1
+2 internal.util.Checks No:50
+0
+3 internal.util.Checks No:51
+1
+1 internal.util.collections.HashCodeAndEqualsSafeSet No:52
+0
+1 internal.util.collections.HashCodeAndEqualsSafeSet No:53
+0
+15 internal.util.collections.HashCodeAndEqualsSafeSet No:54
+0
+1 internal.util.collections.Sets No:55
+0
+1 org.junit.Assert No:56
+-
+1 org.junit.internal.Classes No:57
+-
+1 org.junit.internal.MethodSorter No:58
+-
+1 org.junit.internal.RealSystem No:59
+-
+1 org.junit.internal.TextListener No:60
+-
+1 org.junit.internal.builders.AllDefaultPossibilitiesBuilder No:61
+-
+1 org.junit.internal.builders.AnnotatedBuilder No:62
+-
+1 org.junit.internal.builders.IgnoredBuilder No:63
+-
+1 org.junit.internal.builders.JUnit3Builder No:64
+-
+1 org.junit.internal.builders.JUnit4Builder No:65
+-
+1 org.junit.internal.builders.SuiteMethodBuilder No:66
+-
+1 org.junit.internal.runners.model.EachTestNotifier No:67
+-
+1 org.junit.internal.runners.model.ReflectiveCallable No:68
+-
+1 org.junit.internal.runners.rules.RuleMemberValidator No:69
+-
+1 org.junit.runner.Computer No:70
+-
+1 org.junit.runner.Description No:71
+-
+1 org.junit.runner.JUnitCommandLineParseResult No:72
+-
+1 org.junit.runner.JUnitCore No:73
+-
+1 org.junit.runner.Request No:74
+-
+1 org.junit.runner.Result No:75
+-
+1 org.junit.runner.notification.Failure No:76
+-
+1 org.junit.runner.notification.RunListener No:77
+-
+1 org.junit.runner.notification.RunNotifier No:78
+-
+1 org.junit.runner.notification.SynchronizedRunListener No:79
+-
+1 org.junit.runners.BlockJUnit4ClassRunner No:80
+-
+1 org.junit.runners.ParentRunner No:81
+-
+1 org.junit.runners.Suite No:82
+-
+1 org.junit.runners.model.FrameworkMember No:83
+-
+1 org.junit.runners.model.FrameworkMethod No:84
+-
+1 org.junit.runners.model.RunnerBuilder No:85
+-
+1 org.junit.runners.model.TestClass No:86
+-
+1 org.junit.validator.AnnotationsValidator No:87
+-
+1 org.junit.validator.PublicClassValidator No:88
+-
+1 org.mockitoutil.TestBase No:89
+-

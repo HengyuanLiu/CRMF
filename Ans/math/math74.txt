@@ -1,0 +1,163 @@
+1 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:1(faultline)
+1 ConvergingAlgorithmImpl No:2
+0
+10 ConvergingAlgorithmImpl No:3
+5
+12 ConvergingAlgorithmImpl No:4
+3
+1 MathException No:5
+0
+4 MathException No:6
+14
+5 MathException No:7
+0
+1 analysis.solvers.BrentSolver No:8
+0
+48 analysis.solvers.BrentSolver No:9
+0
+95 analysis.solvers.BrentSolver No:10
+32
+1 analysis.solvers.UnivariateRealSolverImpl No:11
+0
+6 analysis.solvers.UnivariateRealSolverImpl No:12
+2
+38 analysis.solvers.UnivariateRealSolverImpl No:13
+4
+1 fraction.BigFraction No:14
+0
+46 fraction.BigFraction No:15
+1
+143 fraction.BigFraction No:16
+0
+1 fraction.BigFractionField No:17
+-
+1 linear.AbstractFieldMatrix No:18
+0
+583 linear.AbstractFieldMatrix No:19
+0
+506 linear.AbstractFieldMatrix No:20
+0
+1 linear.AbstractRealMatrix No:21
+0
+91 linear.AbstractRealMatrix No:22
+2
+415 linear.AbstractRealMatrix No:23
+0
+1 linear.Array2DRowFieldMatrix No:24
+8
+193 linear.Array2DRowFieldMatrix No:25
+1
+135 linear.Array2DRowFieldMatrix No:26
+1
+1 linear.Array2DRowRealMatrix No:27
+29
+113 linear.Array2DRowRealMatrix No:28
+0
+87 linear.Array2DRowRealMatrix No:29
+24
+1 linear.DefaultFieldMatrixChangingVisitor No:30
+-
+1 linear.DefaultFieldMatrixPreservingVisitor No:31
+-
+1 linear.FieldLUDecompositionImpl No:32
+6
+53 linear.FieldLUDecompositionImpl No:33
+6
+193 linear.FieldLUDecompositionImpl No:34
+2
+1 linear.MatrixUtils No:35
+1
+44 linear.MatrixUtils No:36
+3
+88 linear.MatrixUtils No:37
+1
+1 ode.AbstractIntegrator No:38
+23
+46 ode.AbstractIntegrator No:39
+23
+8 ode.AbstractIntegrator No:40
+0
+1 ode.MultistepIntegrator No:41
+0
+40 ode.MultistepIntegrator No:42
+4
+42 ode.MultistepIntegrator No:43
+3
+1 ode.TestProblem1 No:44
+-
+1 ode.TestProblem6 No:45
+-
+1 ode.TestProblemAbstract No:46
+-
+1 ode.TestProblemHandler No:47
+-
+1 ode.events.CombinedEventsManager No:48
+0
+22 ode.events.CombinedEventsManager No:49
+0
+6 ode.events.CombinedEventsManager No:50
+24
+1 ode.events.EventState No:51
+0
+106 ode.events.EventState No:52
+0
+26 ode.events.EventState No:53
+25
+1 ode.nonstiff.AdamsIntegrator No:54
+4
+1 ode.nonstiff.AdamsMoultonIntegrator No:55
+0
+50 ode.nonstiff.AdamsMoultonIntegrator No:56
+2
+78 ode.nonstiff.AdamsMoultonIntegrator No:57
+2
+1 ode.nonstiff.AdamsMoultonIntegratorTest No:58
+-
+1 ode.nonstiff.AdamsNordsieckTransformer No:59
+2
+10 ode.nonstiff.AdamsNordsieckTransformer No:60
+4
+68 ode.nonstiff.AdamsNordsieckTransformer No:61
+4
+1 ode.nonstiff.AdaptiveStepsizeIntegrator No:62
+0
+103 ode.nonstiff.AdaptiveStepsizeIntegrator No:63
+0
+95 ode.nonstiff.AdaptiveStepsizeIntegrator No:64
+0
+1 ode.nonstiff.DormandPrince853Integrator No:65
+0
+405 ode.nonstiff.DormandPrince853Integrator No:66
+5
+306 ode.nonstiff.DormandPrince853Integrator No:67
+5
+1 ode.nonstiff.DormandPrince853StepInterpolator No:68
+5
+153 ode.nonstiff.DormandPrince853StepInterpolator No:69
+5
+126 ode.nonstiff.DormandPrince853StepInterpolator No:70
+5
+1 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:71
+7
+66 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:72
+9
+60 ode.nonstiff.EmbeddedRungeKuttaIntegrator No:73
+9
+1 ode.nonstiff.RungeKuttaStepInterpolator No:74
+0
+30 ode.nonstiff.RungeKuttaStepInterpolator No:75
+8
+14 ode.nonstiff.RungeKuttaStepInterpolator No:76
+5
+1 ode.sampling.AbstractStepInterpolator No:77
+0
+36 ode.sampling.AbstractStepInterpolator No:78
+0
+92 ode.sampling.AbstractStepInterpolator No:79
+2
+1 ode.sampling.NordsieckStepInterpolator No:80
+1
+64 ode.sampling.NordsieckStepInterpolator No:81
+1
+15 ode.sampling.NordsieckStepInterpolator No:82
+0

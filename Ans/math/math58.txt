@@ -1,0 +1,83 @@
+1 optimization.fitting.GaussianFitter No:1(faultline)
+1 analysis.function.Gaussian No:2
+1
+85 analysis.function.Gaussian No:3
+2
+65 analysis.function.Gaussian No:4
+2
+1 exception.MathRuntimeException No:5
+-
+1 exception.util.ArgUtils No:6
+10
+2 exception.util.ArgUtils No:7
+2
+3 exception.util.ArgUtils No:8
+3
+1 exception.util.LocalizedFormats No:9
+4
+1 exception.util.MessageFactory No:10
+2
+6 exception.util.MessageFactory No:11
+2
+1 exception.util.MessageFactory No:12
+2
+1 optimization.AbstractConvergenceChecker No:13
+-
+1 optimization.SimpleVectorialValueChecker No:14
+1
+11 optimization.SimpleVectorialValueChecker No:15
+8
+10 optimization.SimpleVectorialValueChecker No:16
+7
+1 optimization.VectorialPointValuePair No:17
+1
+4 optimization.VectorialPointValuePair No:18
+1
+5 optimization.VectorialPointValuePair No:19
+1
+1 optimization.direct.BaseAbstractVectorialOptimizer No:20
+3
+5 optimization.direct.BaseAbstractVectorialOptimizer No:21
+2
+6 optimization.direct.BaseAbstractVectorialOptimizer No:22
+1
+1 optimization.fitting.CurveFitter No:23
+2
+5 optimization.fitting.CurveFitter No:24
+5
+8 optimization.fitting.CurveFitter No:25
+5
+1 optimization.fitting.GaussianFitter No:26
+1
+92 optimization.fitting.GaussianFitter No:27
+1
+144 optimization.fitting.GaussianFitter No:28
+1
+1 optimization.fitting.GaussianFitterTest No:29
+-
+1 optimization.fitting.WeightedObservedPoint No:30
+-
+1 optimization.general.AbstractLeastSquaresOptimizer No:31
+1
+92 optimization.general.AbstractLeastSquaresOptimizer No:32
+9
+76 optimization.general.AbstractLeastSquaresOptimizer No:33
+3
+1 optimization.general.LevenbergMarquardtOptimizer No:34
+6
+244 optimization.general.LevenbergMarquardtOptimizer No:35
+2
+384 optimization.general.LevenbergMarquardtOptimizer No:36
+3
+1 util.FastMath No:37
+98
+6441 util.FastMath No:38
+2
+1183 util.FastMath No:39
+1
+1 util.Incrementor No:40
+48
+2 util.Incrementor No:41
+1
+5 util.Incrementor No:42
+2

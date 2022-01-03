@@ -1,0 +1,351 @@
+1 chart.axis.Axis No:1(faultline)
+1 chart.axis.Axis No:2
+26
+82 chart.axis.Axis No:3
+2
+283 chart.axis.Axis No:4
+0
+1 chart.axis.CategoryAxis No:5
+0
+447 chart.axis.CategoryAxis No:6
+8
+430 chart.axis.CategoryAxis No:7
+0
+1 chart.axis.CategoryLabelPositions No:8
+0
+121 chart.axis.CategoryLabelPositions No:9
+0
+124 chart.axis.CategoryLabelPositions No:10
+1
+1 chart.axis.DateAxis No:11
+0
+648 chart.axis.DateAxis No:12
+1
+261 chart.axis.DateAxis No:13
+2
+1 chart.axis.DateTickUnit No:14
+0
+82 chart.axis.DateTickUnit No:15
+0
+101 chart.axis.DateTickUnit No:16
+1
+1 chart.axis.NumberAxis No:17
+18
+670 chart.axis.NumberAxis No:18
+18
+19 chart.axis.NumberAxis No:19
+2
+1 chart.axis.TickUnit No:20
+2
+15 chart.axis.TickUnit No:21
+21
+12 chart.axis.TickUnit No:22
+1
+1 chart.axis.TickUnits No:23
+47
+9 chart.axis.TickUnits No:24
+0
+35 chart.axis.TickUnits No:25
+0
+1 chart.axis.ValueAxis No:26
+0
+177 chart.axis.ValueAxis No:27
+15
+138 chart.axis.ValueAxis No:28
+0
+1 chart.junit.AreaChartTests No:29
+-
+1 chart.junit.BarChart3DTests No:30
+-
+1 chart.junit.BarChartTests No:31
+-
+1 chart.junit.GanttChartTests No:32
+-
+1 chart.junit.LineChart3DTests No:33
+-
+1 chart.junit.LineChartTests No:34
+-
+1 chart.junit.StackedAreaChartTests No:35
+-
+1 chart.junit.StackedBarChart3DTests No:36
+-
+1 chart.junit.StackedBarChartTests No:37
+-
+1 chart.junit.WaterfallChartTests No:38
+-
+1 chart.labels.ItemLabelAnchor No:39
+49
+75 chart.labels.ItemLabelAnchor No:40
+42
+60 chart.labels.ItemLabelAnchor No:41
+42
+1 chart.labels.ItemLabelPosition No:42
+0
+10 chart.labels.ItemLabelPosition No:43
+5
+3 chart.labels.ItemLabelPosition No:44
+0
+1 chart.labels.StandardCategorySeriesLabelGenerator No:45
+0
+3 chart.labels.StandardCategorySeriesLabelGenerator No:46
+0
+8 chart.labels.StandardCategorySeriesLabelGenerator No:47
+20
+1 chart.plot.junit.CategoryPlotTests No:48
+-
+1 chart.renderer.AbstractRenderer No:49
+1
+310 chart.renderer.AbstractRenderer No:50
+0
+154 chart.renderer.AbstractRenderer No:51
+0
+1 chart.renderer.category.AbstractCategoryItemRenderer No:52
+1
+27 chart.renderer.category.AbstractCategoryItemRenderer No:53
+1
+194 chart.renderer.category.AbstractCategoryItemRenderer No:54
+0
+1 chart.renderer.category.BarRenderer No:55
+0
+330 chart.renderer.category.BarRenderer No:56
+0
+324 chart.renderer.category.BarRenderer No:57
+0
+1 chart.renderer.category.BoxAndWhiskerRenderer No:58
+0
+110 chart.renderer.category.BoxAndWhiskerRenderer No:59
+0
+214 chart.renderer.category.BoxAndWhiskerRenderer No:60
+0
+1 chart.renderer.category.GroupedStackedBarRenderer No:61
+0
+33 chart.renderer.category.GroupedStackedBarRenderer No:62
+0
+109 chart.renderer.category.GroupedStackedBarRenderer No:63
+0
+1 chart.renderer.category.LevelRenderer No:64
+0
+146 chart.renderer.category.LevelRenderer No:65
+0
+123 chart.renderer.category.LevelRenderer No:66
+0
+1 chart.renderer.category.LineAndShapeRenderer No:67
+6
+153 chart.renderer.category.LineAndShapeRenderer No:68
+1
+16 chart.renderer.category.LineAndShapeRenderer No:69
+2
+1 chart.renderer.category.MinMaxCategoryRenderer No:70
+1
+37 chart.renderer.category.MinMaxCategoryRenderer No:71
+0
+60 chart.renderer.category.MinMaxCategoryRenderer No:72
+0
+1 chart.renderer.category.StackedBarRenderer No:73
+1
+127 chart.renderer.category.StackedBarRenderer No:74
+1
+67 chart.renderer.category.StackedBarRenderer No:75
+0
+1 chart.renderer.category.StatisticalBarRenderer No:76
+0
+68 chart.renderer.category.StatisticalBarRenderer No:77
+0
+19 chart.renderer.category.StatisticalBarRenderer No:78
+0
+1 chart.renderer.category.StatisticalLineAndShapeRenderer No:79
+1
+144 chart.renderer.category.StatisticalLineAndShapeRenderer No:80
+0
+84 chart.renderer.category.StatisticalLineAndShapeRenderer No:81
+1
+1 chart.renderer.category.junit.BoxAndWhiskerRendererTests No:82
+-
+1 chart.renderer.category.junit.GroupedStackedBarRendererTests No:83
+-
+1 chart.renderer.category.junit.IntervalBarRendererTests No:84
+-
+1 chart.renderer.category.junit.LayeredBarRendererTests No:85
+-
+1 chart.renderer.category.junit.LevelRendererTests No:86
+-
+1 chart.renderer.category.junit.MinMaxCategoryRendererTests No:87
+-
+1 chart.renderer.category.junit.StatisticalBarRendererTests No:88
+-
+1 chart.renderer.category.junit.StatisticalLineAndShapeRendererTests No:89
+-
+1 chart.text.TextAnchor No:90
+67
+45 chart.text.TextAnchor No:91
+0
+39 chart.text.TextAnchor No:92
+2
+1 chart.util.AbstractObjectList No:93
+48
+38 chart.util.AbstractObjectList No:94
+16
+31 chart.util.AbstractObjectList No:95
+39
+1 chart.util.BooleanList No:96
+9
+2 chart.util.BooleanList No:97
+49
+1 chart.util.GradientPaintTransformType No:98
+19
+3 chart.util.GradientPaintTransformType No:99
+0
+12 chart.util.GradientPaintTransformType No:100
+2
+1 chart.util.ObjectUtilities No:101
+0
+42 chart.util.ObjectUtilities No:102
+0
+52 chart.util.ObjectUtilities No:103
+0
+1 chart.util.PaintList No:104
+5
+3 chart.util.PaintList No:105
+0
+16 chart.util.PaintList No:106
+22
+1 chart.util.PaintUtilities No:107
+32
+32 chart.util.PaintUtilities No:108
+0
+21 chart.util.PaintUtilities No:109
+1
+1 chart.util.SerialUtilities No:110
+0
+56 chart.util.SerialUtilities No:111
+33
+62 chart.util.SerialUtilities No:112
+22
+1 chart.util.ShapeList No:113
+2
+14 chart.util.ShapeList No:114
+1
+20 chart.util.ShapeList No:115
+0
+1 chart.util.ShapeUtilities No:116
+35
+258 chart.util.ShapeUtilities No:117
+0
+345 chart.util.ShapeUtilities No:118
+0
+1 chart.util.StandardGradientPaintTransformer No:119
+0
+2 chart.util.StandardGradientPaintTransformer No:120
+6
+5 chart.util.StandardGradientPaintTransformer No:121
+0
+1 chart.util.StrokeList No:122
+3
+18 chart.util.StrokeList No:123
+48
+5 chart.util.StrokeList No:124
+1
+1 data.DataUtilities No:125
+1
+22 data.DataUtilities No:126
+1
+43 data.DataUtilities No:127
+0
+1 data.DefaultKeyedValue No:128
+39
+9 data.DefaultKeyedValue No:129
+3
+15 data.DefaultKeyedValue No:130
+0
+1 data.DefaultKeyedValues No:131
+37
+27 data.DefaultKeyedValues No:132
+2
+31 data.DefaultKeyedValues No:133
+0
+1 data.DefaultKeyedValues2D No:134
+30
+88 data.DefaultKeyedValues2D No:135
+1
+21 data.DefaultKeyedValues2D No:136
+1
+1 data.KeyToGroupMap No:137
+0
+28 data.KeyToGroupMap No:138
+0
+4 data.KeyToGroupMap No:139
+4
+1 data.KeyedObject No:140
+7
+13 data.KeyedObject No:141
+3
+12 data.KeyedObject No:142
+2
+1 data.KeyedObjects No:143
+7
+19 data.KeyedObjects No:144
+2
+34 data.KeyedObjects No:145
+6
+1 data.KeyedObjects2D No:146
+6
+37 data.KeyedObjects2D No:147
+6
+19 data.KeyedObjects2D No:148
+0
+1 data.category.DefaultCategoryDataset No:149
+23
+44 data.category.DefaultCategoryDataset No:150
+3
+15 data.category.DefaultCategoryDataset No:151
+4
+1 data.category.DefaultIntervalCategoryDataset No:152
+2
+87 data.category.DefaultIntervalCategoryDataset No:153
+1
+115 data.category.DefaultIntervalCategoryDataset No:154
+1
+1 data.general.AbstractDataset No:155
+0
+25 data.general.AbstractDataset No:156
+4
+7 data.general.AbstractDataset No:157
+7
+1 data.general.DatasetUtilities No:158
+0
+57 data.general.DatasetUtilities No:159
+0
+8 data.general.DatasetUtilities No:160
+2
+1 data.resources.DataPackageResources No:161
+-
+1 data.statistics.BoxAndWhiskerCalculator No:162
+2
+84 data.statistics.BoxAndWhiskerCalculator No:163
+3
+66 data.statistics.BoxAndWhiskerCalculator No:164
+1
+1 data.statistics.BoxAndWhiskerItem No:165
+2
+4 data.statistics.BoxAndWhiskerItem No:166
+3
+39 data.statistics.BoxAndWhiskerItem No:167
+3
+1 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:168
+3
+52 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:169
+0
+43 data.statistics.DefaultBoxAndWhiskerCategoryDataset No:170
+1
+1 data.statistics.DefaultStatisticalCategoryDataset No:171
+2
+60 data.statistics.DefaultStatisticalCategoryDataset No:172
+3
+7 data.statistics.DefaultStatisticalCategoryDataset No:173
+1
+1 data.statistics.Statistics No:174
+2
+264 data.statistics.Statistics No:175
+1
+52 data.statistics.Statistics No:176
+3

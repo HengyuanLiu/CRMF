@@ -1,0 +1,8 @@
+chart.util.junit.ShapeUtilitiesTests
+chart.util.junit.ShapeUtilitiesTests.testEqualShapes=1
+chart.util.junit.ShapeUtilitiesTests.testIntersects=1
+chart.util.junit.ShapeUtilitiesTests.testEqualLine2Ds=1
+chart.util.junit.ShapeUtilitiesTests.suite=1
+chart.util.ShapeUtilities.intersects=7
+chart.util.ObjectUtilities.equal=7
+chart.util.ShapeUtilities.equal=26

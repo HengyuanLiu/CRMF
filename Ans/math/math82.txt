@@ -1,0 +1,71 @@
+1 optimization.linear.SimplexSolver No:1(faultline)
+1 MathException No:2
+4
+5 MathException No:3
+0
+6 MathException No:4
+1
+1 linear.Array2DRowRealMatrix No:5
+27
+123 linear.Array2DRowRealMatrix No:6
+1
+116 linear.Array2DRowRealMatrix No:7
+0
+1 linear.ArrayRealVector No:8
+1
+250 linear.ArrayRealVector No:9
+1
+120 linear.ArrayRealVector No:10
+1
+1 linear.RealVectorFormat No:11
+4
+26 linear.RealVectorFormat No:12
+2
+4 linear.RealVectorFormat No:13
+2
+1 optimization.RealPointValuePair No:14
+-
+1 optimization.linear.AbstractLinearOptimizer No:15
+0
+1 optimization.linear.AbstractLinearOptimizer No:16
+0
+5 optimization.linear.AbstractLinearOptimizer No:17
+0
+1 optimization.linear.LinearConstraint No:18
+0
+23 optimization.linear.LinearConstraint No:19
+0
+8 optimization.linear.LinearConstraint No:20
+0
+1 optimization.linear.LinearObjectiveFunction No:21
+0
+15 optimization.linear.LinearObjectiveFunction No:22
+1
+13 optimization.linear.LinearObjectiveFunction No:23
+0
+1 optimization.linear.SimplexSolver No:24
+0
+65 optimization.linear.SimplexSolver No:25
+0
+52 optimization.linear.SimplexSolver No:26
+1
+1 optimization.linear.SimplexSolverTest No:27
+-
+1 optimization.linear.SimplexTableau No:28
+1
+240 optimization.linear.SimplexTableau No:29
+0
+173 optimization.linear.SimplexTableau No:30
+1
+1 util.CompositeFormat No:31
+6
+41 util.CompositeFormat No:32
+6
+33 util.CompositeFormat No:33
+6
+1 util.MathUtils No:34
+8
+167 util.MathUtils No:35
+0
+629 util.MathUtils No:36
+1

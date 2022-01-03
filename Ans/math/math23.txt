@@ -1,0 +1,159 @@
+1 optimization.univariate.BrentOptimizer No:1(faultline)
+1 TestUtils No:2
+-
+1 analysis.FunctionUtils No:3
+1
+24 analysis.FunctionUtils No:4
+2
+88 analysis.FunctionUtils No:5
+2
+1 analysis.QuinticFunction No:6
+-
+1 analysis.function.Sin No:7
+-
+1 analysis.function.StepFunction No:8
+2
+3 analysis.function.StepFunction No:9
+0
+22 analysis.function.StepFunction No:10
+2
+1 dfp.Dfp No:11
+1
+917 dfp.Dfp No:12
+5
+2260 dfp.Dfp No:13
+2
+1 dfp.DfpField No:14
+8
+15 dfp.DfpField No:15
+0
+131 dfp.DfpField No:16
+8
+1 dfp.DfpMath No:17
+2
+310 dfp.DfpMath No:18
+2
+69 dfp.DfpMath No:19
+1
+1 exception.MathIllegalStateException No:20
+0
+2 exception.MathIllegalStateException No:21
+0
+1 exception.MaxCountExceededException No:22
+2
+1 exception.util.ArgUtils No:23
+1
+2 exception.util.ArgUtils No:24
+2
+3 exception.util.ArgUtils No:25
+3
+1 exception.util.ExceptionContext No:26
+0
+1 exception.util.ExceptionContext No:27
+2
+6 exception.util.ExceptionContext No:28
+4
+1 optimization.AbstractConvergenceChecker No:29
+5
+5 optimization.AbstractConvergenceChecker No:30
+4
+7 optimization.AbstractConvergenceChecker No:31
+2
+1 optimization.univariate.BaseAbstractUnivariateOptimizer No:32
+3
+4 optimization.univariate.BaseAbstractUnivariateOptimizer No:33
+1
+15 optimization.univariate.BaseAbstractUnivariateOptimizer No:34
+0
+1 optimization.univariate.BrentOptimizer No:35
+2
+163 optimization.univariate.BrentOptimizer No:36
+5
+156 optimization.univariate.BrentOptimizer No:37
+0
+1 optimization.univariate.BrentOptimizerTest No:38
+-
+1 optimization.univariate.SimpleUnivariateValueChecker No:39
+1
+6 optimization.univariate.SimpleUnivariateValueChecker No:40
+2
+1 optimization.univariate.SimpleUnivariateValueChecker No:41
+2
+1 optimization.univariate.UnivariatePointValuePair No:42
+-
+1 random.BitsStreamGenerator No:43
+1
+64 random.BitsStreamGenerator No:44
+9
+56 random.BitsStreamGenerator No:45
+17
+1 random.MersenneTwister No:46
+1
+6 random.MersenneTwister No:47
+1
+132 random.MersenneTwister No:48
+0
+1 stat.descriptive.AbstractUnivariateStatistic No:49
+23
+27 stat.descriptive.AbstractUnivariateStatistic No:50
+4
+3 stat.descriptive.AbstractUnivariateStatistic No:51
+0
+1 stat.descriptive.DescriptiveStatistics No:52
+0
+74 stat.descriptive.DescriptiveStatistics No:53
+2
+59 stat.descriptive.DescriptiveStatistics No:54
+2
+1 stat.descriptive.moment.Mean No:55
+8
+40 stat.descriptive.moment.Mean No:56
+0
+4 stat.descriptive.moment.Mean No:57
+0
+1 stat.descriptive.rank.Percentile No:58
+2
+94 stat.descriptive.rank.Percentile No:59
+0
+219 stat.descriptive.rank.Percentile No:60
+5
+1 stat.descriptive.summary.Sum No:61
+0
+1 stat.descriptive.summary.Sum No:62
+0
+13 stat.descriptive.summary.Sum No:63
+0
+1 util.FastMath No:64
+0
+2790 util.FastMath No:65
+0
+1788 util.FastMath No:66
+5
+1 util.FastMathLiteralArrays No:67
+-
+1 util.FastMathTest No:68
+-
+1 util.Incrementor No:69
+0
+5 util.Incrementor No:70
+1
+2 util.Incrementor No:71
+3
+1 util.MathArrays No:72
+0
+296 util.MathArrays No:73
+0
+203 util.MathArrays No:74
+0
+1 util.Precision No:75
+6
+177 util.Precision No:76
+0
+38 util.Precision No:77
+1
+1 util.ResizableDoubleArray No:78
+9
+270 util.ResizableDoubleArray No:79
+0
+175 util.ResizableDoubleArray No:80
+1
