@@ -2,3 +2,4 @@
 The Code Repository of CRMF (a method call frequency based fault localization technique).
 CRMF is a fault localization technique based on class reduction and method call frequency, that utilizes mutation analysis and information retrieval technique.
 
+![CRMF workflow](https://www.hualigs.cn/image/61d4410445528.jpg)
