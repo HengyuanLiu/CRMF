@@ -4,4 +4,4 @@ CRMF is a fault localization technique based on class reduction and method call 
 
 ![CRMF workflow](https://www.hualigs.cn/image/61d4410445528.jpg)
 
-![RFC workflow](https://www.hualigs.cn/image/61d4519cf2479.jpg)
+![RFC workflow](https://www.hualigs.cn/image/61d452409e798.jpg)
