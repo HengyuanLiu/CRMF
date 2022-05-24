@@ -9,7 +9,7 @@ In the RFC phase, CRMF filters classes with a higher probability of being faulty
 Then, in the CFS phase, CRMF utilizes an information retrieval based formula MFSF to compute the method's suspiciousness in reduced classes set. Finally, CRMF generates a ranking list of the target methods based on the suspiciousness.
 <p align="center">
     <br>
-        <img src=https://www.hualigs.cn/image/61d4410445528.jpg width=50%>
+        <img src=https://www.hualigs.cn/image/628ca35b2aa66.jpg width=50%>
     </br>
 </p>
 <p align="center">Figure 1. Workflow of CRMF</p>
@@ -18,7 +18,7 @@ Then, in the CFS phase, CRMF utilizes an information retrieval based formula MFS
 The RFC phase contains two steps: class mutation and class reduction. In the class mutation step, the classes covered by failed tests are mutated based on the mutation analysis. And in the class reduction step, we first compute the two distances (i.e., Mutant Distance and Class Distance). Then, we reduce the class with a lower probability to be faulty by utilizing Chebyshev's theorem.
 <p align="center">
     <br>
-        <img src=https://www.hualigs.cn/image/61d452409e798.jpg width=50%>
+        <img src=https://www.hualigs.cn/image/628ca35b16a79.jpg width=50%>
     </br>
 </p>
 <p align="center">Figure 2. Workflow of RFC</p>
